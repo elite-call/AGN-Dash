@@ -137,28 +137,28 @@
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
-      "status": "Busy Dialing Out - Connected",
-      "duration": "1899-12-30T06:05:01.000Z",
+      "status": "Busy Other - Offline - Tech Issues",
+      "duration": "1899-12-30T06:00:34.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
-      "outCalls": 63,
-      "logOn": "1899-12-30T10:11:41.000Z",
+      "outCalls": 64,
+      "logOn": "1899-12-30T10:12:43.000Z",
       "notReady": "1899-12-30T06:04:43.000Z",
       "avail": "1899-12-30T06:29:35.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
-      "onOutCalls": "1899-12-30T07:36:25.000Z",
-      "wrapUp": "1899-12-30T06:17:11.000Z",
+      "onOutCalls": "1899-12-30T07:41:52.000Z",
+      "wrapUp": "1899-12-30T06:17:13.000Z",
       "breakTime": "1899-12-30T06:01:00.000Z",
       "other": "1899-12-30T07:26:04.000Z",
       "startDate": "2026-08-04T20:21:04.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-05T00:32:55.154Z"
+      "lastUpdated": "2026-08-05T00:33:58.157Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 47,
-    "totalOutCalls": 802
+    "totalOutCalls": 803
   },
-  "generatedAt": "2026-08-05T00:33:26.532Z"
+  "generatedAt": "2026-08-05T00:34:26.149Z"
 }
