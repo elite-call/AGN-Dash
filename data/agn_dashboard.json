@@ -138,12 +138,12 @@
       "team": "Elite Agents",
       "phone": "+19482317295",
       "status": "Busy Dialing Out - Connected",
-      "duration": "1899-12-30T06:04:30.000Z",
+      "duration": "1899-12-30T06:05:01.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
       "outCalls": 63,
-      "logOn": "1899-12-30T10:11:10.000Z",
+      "logOn": "1899-12-30T10:11:41.000Z",
       "notReady": "1899-12-30T06:04:43.000Z",
       "avail": "1899-12-30T06:29:35.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -153,12 +153,12 @@
       "other": "1899-12-30T07:26:04.000Z",
       "startDate": "2026-08-04T20:21:04.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-05T00:32:24.154Z"
+      "lastUpdated": "2026-08-05T00:32:55.154Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 47,
     "totalOutCalls": 802
   },
-  "generatedAt": "2026-08-05T00:32:28.660Z"
+  "generatedAt": "2026-08-05T00:33:26.532Z"
 }
