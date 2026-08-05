@@ -6,7 +6,7 @@
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "1899-12-30T11:10:48.000Z",
+      "duration": "1899-12-30T11:11:50.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 4,
@@ -21,14 +21,14 @@
       "other": "1899-12-30T07:10:21.000Z",
       "startDate": "2026-08-04T13:17:54.000Z",
       "leadCount": 9,
-      "lastUpdated": "2026-08-05T01:41:07.159Z"
+      "lastUpdated": "2026-08-05T01:42:09.151Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "1899-12-30T07:10:18.000Z",
+      "duration": "1899-12-30T07:11:20.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 7,
@@ -43,14 +43,14 @@
       "other": "1899-12-30T18:29:41.000Z",
       "startDate": "2026-08-03T22:31:51.000Z",
       "leadCount": 5,
-      "lastUpdated": "2026-08-05T01:41:07.159Z"
+      "lastUpdated": "2026-08-05T01:42:09.151Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "1899-12-30T10:25:56.000Z",
+      "duration": "1899-12-30T10:26:58.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 5,
@@ -65,14 +65,14 @@
       "other": "1899-12-30T21:54:26.000Z",
       "startDate": "2026-08-03T17:46:23.000Z",
       "leadCount": 9,
-      "lastUpdated": "2026-08-05T01:41:07.159Z"
+      "lastUpdated": "2026-08-05T01:42:09.151Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "1899-12-30T11:07:40.000Z",
+      "duration": "1899-12-30T11:08:42.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 3,
@@ -87,14 +87,14 @@
       "other": "1899-12-30T06:00:00.000Z",
       "startDate": "2026-08-04T13:16:52.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-05T01:41:07.159Z"
+      "lastUpdated": "2026-08-05T01:42:09.151Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "1899-12-30T07:10:10.000Z",
+      "duration": "1899-12-30T07:11:12.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 4,
@@ -109,14 +109,14 @@
       "other": "1899-12-30T07:32:55.000Z",
       "startDate": "2026-08-04T16:37:22.000Z",
       "leadCount": 10,
-      "lastUpdated": "2026-08-05T01:41:07.159Z"
+      "lastUpdated": "2026-08-05T01:42:09.151Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "1899-12-30T10:11:39.000Z",
+      "duration": "1899-12-30T10:12:41.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
@@ -131,14 +131,14 @@
       "other": "1899-12-30T07:07:36.000Z",
       "startDate": "2026-08-04T15:38:55.000Z",
       "leadCount": 2,
-      "lastUpdated": "2026-08-05T01:41:07.159Z"
+      "lastUpdated": "2026-08-05T01:42:09.151Z"
     },
     {
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "1899-12-30T07:06:47.000Z",
+      "duration": "1899-12-30T07:07:49.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
@@ -153,12 +153,12 @@
       "other": "1899-12-30T07:27:01.000Z",
       "startDate": "2026-08-04T20:21:04.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-05T01:41:07.159Z"
+      "lastUpdated": "2026-08-05T01:42:09.151Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 47,
     "totalOutCalls": 803
   },
-  "generatedAt": "2026-08-05T01:41:26.035Z"
+  "generatedAt": "2026-08-05T01:42:26.304Z"
 }
