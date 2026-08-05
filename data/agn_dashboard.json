@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy Dialing Out - Typing",
-      "duration": "1899-12-30T09:30:04.000Z",
+      "duration": "1899-12-30T09:31:05.000Z",
       "answered": 1,
       "missed": 0,
       "transferred": 3,
       "outCalls": 118,
-      "logOn": "1899-12-30T16:55:47.000Z",
+      "logOn": "1899-12-30T16:56:49.000Z",
       "notReady": "1899-12-30T06:23:19.000Z",
       "avail": "1899-12-30T07:01:37.000Z",
       "onIncCalls": "1899-12-30T06:05:05.000Z",
@@ -21,7 +21,7 @@
       "other": "1899-12-30T07:46:25.000Z",
       "startDate": "2026-08-05T13:01:34.000Z",
       "leadCount": 13,
-      "lastUpdated": "2026-08-05T23:57:22.851Z"
+      "lastUpdated": "2026-08-05T23:58:23.855Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -50,12 +50,12 @@
       "team": "Elite Agents",
       "phone": "+12242972927",
       "status": "Accept Internal Calls",
-      "duration": "1899-12-30T11:24:28.000Z",
+      "duration": "1899-12-30T11:24:59.000Z",
       "answered": 1,
       "missed": 0,
       "transferred": 1,
       "outCalls": 105,
-      "logOn": "1899-12-30T16:56:05.000Z",
+      "logOn": "1899-12-30T16:56:36.000Z",
       "notReady": "1899-12-30T06:23:55.000Z",
       "avail": "1899-12-30T08:27:02.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -65,19 +65,19 @@
       "other": "1899-12-30T06:00:00.000Z",
       "startDate": "2026-08-05T13:01:16.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-05T23:57:22.851Z"
+      "lastUpdated": "2026-08-05T23:57:52.851Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy On Break",
-      "duration": "1899-12-30T08:34:25.000Z",
+      "duration": "1899-12-30T08:35:27.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 2,
       "outCalls": 97,
-      "logOn": "1899-12-30T16:43:43.000Z",
+      "logOn": "1899-12-30T16:44:45.000Z",
       "notReady": "1899-12-30T06:16:52.000Z",
       "avail": "1899-12-30T06:24:38.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -87,7 +87,7 @@
       "other": "1899-12-30T07:17:07.000Z",
       "startDate": "2026-08-05T13:13:07.000Z",
       "leadCount": 7,
-      "lastUpdated": "2026-08-05T23:56:51.849Z"
+      "lastUpdated": "2026-08-05T23:57:52.851Z"
     },
     {
       "agent": "Anthony Perry - TL",
@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "1899-12-30T06:02:20.000Z",
+      "duration": "1899-12-30T06:02:51.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 5,
       "outCalls": 129,
-      "logOn": "1899-12-30T13:11:58.000Z",
+      "logOn": "1899-12-30T13:12:29.000Z",
       "notReady": "1899-12-30T06:07:57.000Z",
       "avail": "1899-12-30T06:35:07.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -131,19 +131,19 @@
       "other": "1899-12-30T08:22:37.000Z",
       "startDate": "2026-08-05T16:35:40.000Z",
       "leadCount": 10,
-      "lastUpdated": "2026-08-05T23:57:22.851Z"
+      "lastUpdated": "2026-08-05T23:57:52.851Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "1899-12-30T06:05:15.000Z",
+      "duration": "1899-12-30T06:06:17.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
       "outCalls": 117,
-      "logOn": "1899-12-30T12:17:26.000Z",
+      "logOn": "1899-12-30T12:18:28.000Z",
       "notReady": "1899-12-30T06:12:36.000Z",
       "avail": "1899-12-30T06:29:28.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -153,29 +153,29 @@
       "other": "1899-12-30T08:19:51.000Z",
       "startDate": "2026-08-05T17:39:47.000Z",
       "leadCount": 5,
-      "lastUpdated": "2026-08-05T23:57:22.851Z"
+      "lastUpdated": "2026-08-05T23:58:23.855Z"
     },
     {
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
-      "status": "Busy Other - Offline - Tech Issues",
-      "duration": "1899-12-30T06:00:48.000Z",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "1899-12-30T06:00:42.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
       "outCalls": 44,
-      "logOn": "1899-12-30T09:58:32.000Z",
+      "logOn": "1899-12-30T09:59:34.000Z",
       "notReady": "1899-12-30T06:03:43.000Z",
-      "avail": "1899-12-30T06:10:09.000Z",
+      "avail": "1899-12-30T06:10:27.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
       "onOutCalls": "1899-12-30T07:27:27.000Z",
       "wrapUp": "1899-12-30T06:05:04.000Z",
       "breakTime": "1899-12-30T06:00:00.000Z",
-      "other": "1899-12-30T08:10:00.000Z",
+      "other": "1899-12-30T08:10:50.000Z",
       "startDate": "2026-08-05T19:58:49.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-05T23:57:22.851Z"
+      "lastUpdated": "2026-08-05T23:58:23.855Z"
     }
   ],
   "teamTotals": {
@@ -199,5 +199,5 @@
     "overallCount": "493",
     "processedAt": "2026-08-05T16:54:21.315Z"
   },
-  "generatedAt": "2026-08-05T23:57:27.491Z"
+  "generatedAt": "2026-08-05T23:58:28.097Z"
 }
