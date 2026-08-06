@@ -4,14 +4,14 @@
     {
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
-      "phone": 12242972528,
+      "phone": "+12242972528",
       "status": "Accept Internal Calls",
-      "duration": "1899-12-30T06:01:26.000Z",
+      "duration": "1899-12-30T06:02:27.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 0,
       "outCalls": 24,
-      "logOn": "1899-12-30T06:43:09.000Z",
+      "logOn": "1899-12-30T06:44:10.000Z",
       "notReady": "1899-12-30T06:04:57.000Z",
       "avail": "1899-12-30T06:06:33.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -21,56 +21,56 @@
       "other": "1899-12-30T06:00:00.000Z",
       "startDate": "2026-08-06T13:02:58.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-06T13:46:08.969Z"
+      "lastUpdated": "2026-08-06T13:47:09.625Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
-      "phone": 12242972927,
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "1899-12-30T06:00:29.000Z",
+      "phone": "+12242972927",
+      "status": "Accept Internal Calls",
+      "duration": "1899-12-30T06:00:42.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 0,
-      "outCalls": 27,
-      "logOn": "1899-12-30T06:44:01.000Z",
+      "outCalls": 28,
+      "logOn": "1899-12-30T06:45:01.000Z",
       "notReady": "1899-12-30T06:02:28.000Z",
       "avail": "1899-12-30T06:08:52.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
-      "onOutCalls": "1899-12-30T06:20:06.000Z",
-      "wrapUp": "1899-12-30T06:12:05.000Z",
+      "onOutCalls": "1899-12-30T06:20:36.000Z",
+      "wrapUp": "1899-12-30T06:12:23.000Z",
       "breakTime": "1899-12-30T06:00:00.000Z",
       "other": "1899-12-30T06:00:00.000Z",
       "startDate": "2026-08-06T13:02:07.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-06T13:46:08.969Z"
+      "lastUpdated": "2026-08-06T13:47:09.625Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
-      "phone": 12242972878,
-      "status": "Busy On Break",
-      "duration": "1899-12-30T06:17:20.000Z",
+      "phone": "+12242972878",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "1899-12-30T06:00:47.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
       "outCalls": 8,
-      "logOn": "1899-12-30T06:35:31.000Z",
+      "logOn": "1899-12-30T06:36:32.000Z",
       "notReady": "1899-12-30T06:02:04.000Z",
-      "avail": "1899-12-30T06:02:27.000Z",
+      "avail": "1899-12-30T06:02:36.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
       "onOutCalls": "1899-12-30T06:07:59.000Z",
       "wrapUp": "1899-12-30T06:02:11.000Z",
-      "breakTime": "1899-12-30T06:00:00.000Z",
+      "breakTime": "1899-12-30T06:17:26.000Z",
       "other": "1899-12-30T06:03:30.000Z",
       "startDate": "2026-08-06T13:10:36.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-06T13:46:08.969Z"
+      "lastUpdated": "2026-08-06T13:47:09.625Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 1,
-    "totalOutCalls": 59,
+    "totalOutCalls": 60,
     "totalQuotes": 11
   },
   "speedToLead": {
@@ -89,5 +89,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-06T13:46:26.974Z"
+  "generatedAt": "2026-08-06T13:47:30.529Z"
 }
