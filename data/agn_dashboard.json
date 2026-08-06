@@ -71,45 +71,45 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:06:09",
+      "status": "Busy Dialing Out - Connected",
+      "duration": "00:01:32",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "149",
-      "logOn": "07:02:17",
+      "outCalls": "150",
+      "logOn": "07:06:56",
       "notReady": "00:08:06",
-      "avail": "00:38:37",
+      "avail": "00:38:42",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "04:35:54",
-      "wrapUp": "00:46:15",
+      "onOutCalls": "04:36:44",
+      "wrapUp": "00:46:18",
       "breakTime": "00:04:31",
-      "other": "00:42:45",
+      "other": "00:49:53",
       "startDate": "8/6/2026 11:28:20",
       "leadCount": 17,
-      "lastUpdated": "2026-08-06T23:50:08.033Z"
+      "lastUpdated": "2026-08-06T23:54:46.029Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
-      "status": "Available - Ringing",
-      "duration": "00:00:22",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:45",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "71",
-      "logOn": "03:43:52",
+      "outCalls": "74",
+      "logOn": "03:48:31",
       "notReady": "00:05:21",
-      "avail": "00:25:06",
+      "avail": "00:26:21",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:04:06",
-      "wrapUp": "00:15:07",
+      "onOutCalls": "02:05:38",
+      "wrapUp": "00:16:36",
       "breakTime": "00:00:00",
       "other": "00:53:44",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 6,
-      "lastUpdated": "2026-08-06T23:50:08.033Z"
+      "lastUpdated": "2026-08-06T23:54:46.029Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -180,8 +180,8 @@
   ],
   "teamTotals": {
     "totalLeads": 53,
-    "totalOutCalls": 725,
-    "totalQuotes": 486
+    "totalOutCalls": 729,
+    "totalQuotes": 491
   },
   "speedToLead": {
     "reportDate": "2026-08-05",
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-06T23:50:16.220Z"
+  "generatedAt": "2026-08-06T23:55:29.678Z"
 }
