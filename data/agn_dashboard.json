@@ -72,44 +72,44 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:34",
+      "duration": "00:00:29",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "143",
-      "logOn": "06:37:20",
+      "outCalls": "146",
+      "logOn": "06:41:59",
       "notReady": "00:08:06",
-      "avail": "00:37:55",
+      "avail": "00:38:07",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "04:19:15",
-      "wrapUp": "00:44:14",
+      "onOutCalls": "04:22:50",
+      "wrapUp": "00:45:11",
       "breakTime": "00:04:31",
       "other": "00:42:45",
       "startDate": "8/6/2026 11:28:20",
       "leadCount": 17,
-      "lastUpdated": "2026-08-06T23:25:10.008Z"
+      "lastUpdated": "2026-08-06T23:29:49.020Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
-      "status": "Busy Wrapping Up",
-      "duration": "00:00:12",
+      "status": "Available",
+      "duration": "00:01:10",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "62",
-      "logOn": "03:21:36",
+      "outCalls": "64",
+      "logOn": "03:26:15",
       "notReady": "00:03:22",
-      "avail": "00:20:03",
+      "avail": "00:20:20",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:54:44",
-      "wrapUp": "00:12:14",
+      "onOutCalls": "01:56:34",
+      "wrapUp": "00:13:48",
       "breakTime": "00:00:00",
       "other": "00:51:01",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 5,
-      "lastUpdated": "2026-08-06T23:25:10.008Z"
+      "lastUpdated": "2026-08-06T23:29:49.020Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -180,8 +180,8 @@
   ],
   "teamTotals": {
     "totalLeads": 52,
-    "totalOutCalls": 710,
-    "totalQuotes": 473
+    "totalOutCalls": 715,
+    "totalQuotes": 479
   },
   "speedToLead": {
     "reportDate": "2026-08-05",
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-06T23:25:15.808Z"
+  "generatedAt": "2026-08-06T23:30:18.486Z"
 }
