@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:12:11",
+      "duration": "00:13:14",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "115",
-      "logOn": "04:51:55",
+      "logOn": "04:52:58",
       "notReady": "00:22:22",
       "avail": "01:05:00",
       "onIncCalls": "00:00:00",
@@ -21,19 +21,19 @@
       "other": "00:00:00",
       "startDate": "8/6/2026 08:02:58",
       "leadCount": 8,
-      "lastUpdated": "2026-08-06T17:54:54.898Z"
+      "lastUpdated": "2026-08-06T17:55:57.900Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "+12242972927",
       "status": "Busy On Break",
-      "duration": "00:30:03",
+      "duration": "00:31:06",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "91",
-      "logOn": "04:52:47",
+      "logOn": "04:53:49",
       "notReady": "00:13:03",
       "avail": "01:35:52",
       "onIncCalls": "00:00:00",
@@ -43,19 +43,19 @@
       "other": "00:00:00",
       "startDate": "8/6/2026 08:02:07",
       "leadCount": 12,
-      "lastUpdated": "2026-08-06T17:54:54.898Z"
+      "lastUpdated": "2026-08-06T17:55:57.900Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:10",
+      "duration": "00:01:13",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
       "outCalls": "47",
-      "logOn": "04:44:17",
+      "logOn": "04:45:20",
       "notReady": "00:08:09",
       "avail": "00:12:43",
       "onIncCalls": "00:00:00",
@@ -65,34 +65,34 @@
       "other": "01:31:57",
       "startDate": "8/6/2026 08:10:36",
       "leadCount": 4,
-      "lastUpdated": "2026-08-06T17:54:54.898Z"
+      "lastUpdated": "2026-08-06T17:55:57.900Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:18",
+      "status": "Available - Ringing",
+      "duration": "00:00:13",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "32",
-      "logOn": "01:26:34",
+      "outCalls": "33",
+      "logOn": "01:27:36",
       "notReady": "00:02:15",
       "avail": "00:07:22",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:04:07",
-      "wrapUp": "00:12:31",
+      "onOutCalls": "01:04:44",
+      "wrapUp": "00:13:03",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/6/2026 11:28:20",
       "leadCount": 2,
-      "lastUpdated": "2026-08-06T17:54:54.898Z"
+      "lastUpdated": "2026-08-06T17:55:57.900Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 26,
-    "totalOutCalls": 285,
+    "totalOutCalls": 286,
     "totalQuotes": 184
   },
   "speedToLead": {
@@ -111,5 +111,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-06T17:55:17.859Z"
+  "generatedAt": "2026-08-06T17:56:17.887Z"
 }
