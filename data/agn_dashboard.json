@@ -71,45 +71,45 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy Wrapping Up",
-      "duration": "00:00:20",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:51",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "136",
-      "logOn": "06:22:21",
+      "outCalls": "138",
+      "logOn": "06:27:00",
       "notReady": "00:08:06",
-      "avail": "00:35:09",
+      "avail": "00:35:44",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "04:09:52",
-      "wrapUp": "00:41:38",
+      "onOutCalls": "04:12:29",
+      "wrapUp": "00:42:34",
       "breakTime": "00:04:31",
       "other": "00:42:45",
       "startDate": "8/6/2026 11:28:20",
       "leadCount": 17,
-      "lastUpdated": "2026-08-06T23:10:11.017Z"
+      "lastUpdated": "2026-08-06T23:14:50.002Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:02:23",
+      "status": "Busy Wrapping Up",
+      "duration": "00:00:15",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
-      "outCalls": "58",
-      "logOn": "03:06:37",
+      "outCalls": "59",
+      "logOn": "03:11:16",
       "notReady": "00:03:22",
       "avail": "00:19:28",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:39:45",
+      "onOutCalls": "01:46:32",
       "wrapUp": "00:10:38",
       "breakTime": "00:00:00",
       "other": "00:51:01",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 5,
-      "lastUpdated": "2026-08-06T23:10:11.017Z"
+      "lastUpdated": "2026-08-06T23:14:50.002Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -180,7 +180,7 @@
   ],
   "teamTotals": {
     "totalLeads": 52,
-    "totalOutCalls": 699,
+    "totalOutCalls": 702,
     "totalQuotes": 465
   },
   "speedToLead": {
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-06T23:10:15.924Z"
+  "generatedAt": "2026-08-06T23:15:15.441Z"
 }
