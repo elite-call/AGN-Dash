@@ -28,12 +28,12 @@
       "team": "Elite Agents",
       "phone": "+12242972927",
       "status": "Accept Internal Calls",
-      "duration": "02:12:16",
+      "duration": "02:17:26",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "142",
-      "logOn": "09:37:34",
+      "logOn": "09:42:44",
       "notReady": "00:25:22",
       "avail": "02:17:25",
       "onIncCalls": "00:00:00",
@@ -43,7 +43,7 @@
       "other": "00:00:00",
       "startDate": "8/6/2026 08:02:07",
       "leadCount": 13,
-      "lastUpdated": "2026-08-06T22:39:41.951Z"
+      "lastUpdated": "2026-08-06T22:44:51.971Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -94,12 +94,12 @@
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:01:20",
+      "duration": "00:06:30",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "52",
-      "logOn": "02:36:08",
+      "logOn": "02:41:18",
       "notReady": "00:02:21",
       "avail": "00:17:36",
       "onIncCalls": "00:00:00",
@@ -109,7 +109,7 @@
       "other": "00:40:08",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 4,
-      "lastUpdated": "2026-08-06T22:39:41.951Z"
+      "lastUpdated": "2026-08-06T22:44:51.971Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -179,9 +179,9 @@
     }
   ],
   "teamTotals": {
-    "totalLeads": 50,
+    "totalLeads": 51,
     "totalOutCalls": 681,
-    "totalQuotes": 446
+    "totalQuotes": 447
   },
   "speedToLead": {
     "reportDate": "2026-08-05",
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-06T22:40:15.721Z"
+  "generatedAt": "2026-08-06T22:45:16.521Z"
 }
