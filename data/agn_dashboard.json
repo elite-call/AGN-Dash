@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "1899-12-30T06:01:09.000Z",
+      "duration": "1899-12-30T06:01:39.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
       "outCalls": 31,
-      "logOn": "1899-12-30T07:08:03.000Z",
+      "logOn": "1899-12-30T07:08:34.000Z",
       "notReady": "1899-12-30T06:06:39.000Z",
       "avail": "1899-12-30T06:21:20.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -21,19 +21,19 @@
       "other": "1899-12-30T06:00:00.000Z",
       "startDate": "2026-08-06T13:02:58.000Z",
       "leadCount": 1,
-      "lastUpdated": "2026-08-06T14:11:03.901Z"
+      "lastUpdated": "2026-08-06T14:11:33.902Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "+12242972927",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "1899-12-30T06:00:33.000Z",
+      "duration": "1899-12-30T06:01:03.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 0,
       "outCalls": 31,
-      "logOn": "1899-12-30T07:08:55.000Z",
+      "logOn": "1899-12-30T07:09:26.000Z",
       "notReady": "1899-12-30T06:02:28.000Z",
       "avail": "1899-12-30T06:15:54.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -43,19 +43,19 @@
       "other": "1899-12-30T06:00:00.000Z",
       "startDate": "2026-08-06T13:02:07.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-06T14:11:03.901Z"
+      "lastUpdated": "2026-08-06T14:11:33.902Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "1899-12-30T06:00:26.000Z",
+      "duration": "1899-12-30T06:00:57.000Z",
       "answered": 0,
       "missed": 0,
       "transferred": 1,
       "outCalls": 14,
-      "logOn": "1899-12-30T07:00:25.000Z",
+      "logOn": "1899-12-30T07:00:56.000Z",
       "notReady": "1899-12-30T06:02:59.000Z",
       "avail": "1899-12-30T06:03:52.000Z",
       "onIncCalls": "1899-12-30T06:00:00.000Z",
@@ -65,7 +65,7 @@
       "other": "1899-12-30T06:07:04.000Z",
       "startDate": "2026-08-06T13:10:36.000Z",
       "leadCount": 0,
-      "lastUpdated": "2026-08-06T14:11:03.901Z"
+      "lastUpdated": "2026-08-06T14:11:33.902Z"
     }
   ],
   "teamTotals": {
@@ -89,5 +89,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-06T14:11:27.752Z"
+  "generatedAt": "2026-08-06T14:12:27.080Z"
 }
