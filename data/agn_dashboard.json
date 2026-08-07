@@ -27,15 +27,15 @@
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
-      "status": "Accept Internal Calls",
-      "duration": "00:08:47",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:58",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
-      "outCalls": "52",
-      "logOn": "02:19:00",
-      "notReady": "00:05:37",
-      "avail": "00:27:58",
+      "outCalls": "53",
+      "logOn": "02:24:10",
+      "notReady": "00:05:46",
+      "avail": "00:40:48",
       "onIncCalls": "00:00:00",
       "onOutCalls": "00:53:16",
       "wrapUp": "00:08:52",
@@ -43,7 +43,7 @@
       "other": "00:33:09",
       "startDate": "8/7/2026 09:00:44",
       "leadCount": 0,
-      "lastUpdated": "2026-08-07T16:19:45.894Z"
+      "lastUpdated": "2026-08-07T16:24:55.903Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -72,34 +72,34 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:03:03",
+      "duration": "00:02:08",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "60",
-      "logOn": "02:32:12",
+      "outCalls": "61",
+      "logOn": "02:37:22",
       "notReady": "00:07:52",
-      "avail": "00:23:43",
+      "avail": "00:23:55",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:38:48",
-      "wrapUp": "00:16:58",
+      "onOutCalls": "01:44:11",
+      "wrapUp": "00:17:28",
       "breakTime": "00:00:00",
       "other": "00:00:01",
       "startDate": "8/7/2026 08:20:38",
-      "leadCount": 13,
-      "lastUpdated": "2026-08-07T16:19:45.894Z"
+      "leadCount": 14,
+      "lastUpdated": "2026-08-07T16:24:55.903Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:01:29",
+      "duration": "00:06:39",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
       "outCalls": "50",
-      "logOn": "03:08:57",
+      "logOn": "03:14:07",
       "notReady": "00:08:46",
       "avail": "01:04:58",
       "onIncCalls": "00:00:00",
@@ -109,7 +109,7 @@
       "other": "00:00:00",
       "startDate": "8/7/2026 08:10:47",
       "leadCount": 4,
-      "lastUpdated": "2026-08-07T16:19:45.894Z"
+      "lastUpdated": "2026-08-07T16:24:55.903Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -135,9 +135,9 @@
     }
   ],
   "teamTotals": {
-    "totalLeads": 37,
-    "totalOutCalls": 315,
-    "totalQuotes": 165
+    "totalLeads": 38,
+    "totalOutCalls": 317,
+    "totalQuotes": 166
   },
   "speedToLead": {
     "reportDate": "2026-08-06",
@@ -155,5 +155,5 @@
     "overallCount": "498",
     "processedAt": "2026-08-07T12:32:54.693Z"
   },
-  "generatedAt": "2026-08-07T16:20:18.124Z"
+  "generatedAt": "2026-08-07T16:25:15.213Z"
 }
