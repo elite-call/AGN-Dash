@@ -94,12 +94,12 @@
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "01:13:23",
+      "duration": "01:18:33",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "86",
-      "logOn": "05:38:41",
+      "logOn": "05:43:51",
       "notReady": "00:05:26",
       "avail": "00:32:46",
       "onIncCalls": "00:00:00",
@@ -109,7 +109,7 @@
       "other": "01:02:23",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 6,
-      "lastUpdated": "2026-08-07T01:44:56.041Z"
+      "lastUpdated": "2026-08-07T01:50:07.045Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-07T01:45:16.550Z"
+  "generatedAt": "2026-08-07T01:50:27.436Z"
 }
