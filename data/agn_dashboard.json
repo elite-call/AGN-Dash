@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:02:00",
+      "duration": "00:06:40",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "156",
-      "logOn": "07:32:16",
+      "logOn": "07:36:57",
       "notReady": "00:08:35",
       "avail": "00:45:33",
       "onIncCalls": "00:00:00",
@@ -87,29 +87,29 @@
       "other": "00:49:53",
       "startDate": "8/6/2026 11:28:20",
       "leadCount": 17,
-      "lastUpdated": "2026-08-07T00:20:07.045Z"
+      "lastUpdated": "2026-08-07T00:24:47.056Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
-      "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:03:03",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:02:15",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "84",
-      "logOn": "04:13:51",
+      "logOn": "04:18:32",
       "notReady": "00:05:26",
-      "avail": "00:32:24",
+      "avail": "00:32:38",
       "onIncCalls": "00:00:00",
       "onOutCalls": "02:16:24",
       "wrapUp": "00:19:20",
       "breakTime": "00:00:00",
-      "other": "00:57:08",
+      "other": "01:02:23",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 6,
-      "lastUpdated": "2026-08-07T00:20:07.045Z"
+      "lastUpdated": "2026-08-07T00:24:47.056Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-07T00:20:18.208Z"
+  "generatedAt": "2026-08-07T00:25:16.178Z"
 }
