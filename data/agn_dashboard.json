@@ -71,45 +71,45 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy Dialing Out - Connected",
-      "duration": "00:06:42",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:58",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "150",
-      "logOn": "07:12:06",
+      "outCalls": "152",
+      "logOn": "07:17:17",
       "notReady": "00:08:06",
-      "avail": "00:38:42",
+      "avail": "00:38:55",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "04:36:44",
-      "wrapUp": "00:46:18",
+      "onOutCalls": "04:46:35",
+      "wrapUp": "00:47:09",
       "breakTime": "00:04:31",
       "other": "00:49:53",
       "startDate": "8/6/2026 11:28:20",
       "leadCount": 17,
-      "lastUpdated": "2026-08-06T23:59:57.052Z"
+      "lastUpdated": "2026-08-07T00:05:07.050Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:31",
+      "duration": "00:01:07",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "77",
-      "logOn": "03:53:41",
-      "notReady": "00:05:21",
-      "avail": "00:27:09",
+      "outCalls": "80",
+      "logOn": "03:58:52",
+      "notReady": "00:05:26",
+      "avail": "00:27:27",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:08:53",
-      "wrapUp": "00:17:57",
+      "onOutCalls": "02:11:02",
+      "wrapUp": "00:18:12",
       "breakTime": "00:00:00",
-      "other": "00:53:44",
+      "other": "00:55:32",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 6,
-      "lastUpdated": "2026-08-06T23:59:57.052Z"
+      "lastUpdated": "2026-08-07T00:05:07.050Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -180,8 +180,8 @@
   ],
   "teamTotals": {
     "totalLeads": 53,
-    "totalOutCalls": 732,
-    "totalQuotes": 492
+    "totalOutCalls": 737,
+    "totalQuotes": 495
   },
   "speedToLead": {
     "reportDate": "2026-08-05",
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-07T00:00:17.620Z"
+  "generatedAt": "2026-08-07T00:05:17.849Z"
 }
