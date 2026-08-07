@@ -135,7 +135,7 @@
     }
   ],
   "teamTotals": {
-    "totalLeads": 56,
+    "totalLeads": 57,
     "totalOutCalls": 693,
     "totalQuotes": 388
   },
@@ -155,5 +155,5 @@
     "overallCount": "498",
     "processedAt": "2026-08-07T12:32:54.693Z"
   },
-  "generatedAt": "2026-08-07T22:00:39.185Z"
+  "generatedAt": "2026-08-07T22:05:15.676Z"
 }
