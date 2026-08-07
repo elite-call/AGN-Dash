@@ -1,0 +1,56 @@
+{
+  "ok": true,
+  "date": "2026-08-07",
+  "agents": [
+    {
+      "agent": "Shiza Zehra",
+      "team": "Elite Agents",
+      "phone": "+12242972656",
+      "status": "Busy Other - Offline - Tech Issues",
+      "duration": "00:00:07",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "4",
+      "outCalls": "158",
+      "logOn": "07:44:42",
+      "notReady": "00:08:35",
+      "avail": "00:45:36",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "04:56:55",
+      "wrapUp": "00:48:44",
+      "breakTime": "00:07:52",
+      "other": "00:55:43",
+      "startDate": "8/6/2026 11:28:20",
+      "leadCount": 18,
+      "lastUpdated": "2026-08-07T00:32:32.038Z"
+    },
+    {
+      "agent": "Gina Hamilton",
+      "team": "Elite Agents",
+      "phone": "+12242972518",
+      "status": "Busy Other - Offline - Tech Issues",
+      "duration": "02:07:07",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "4",
+      "outCalls": "86",
+      "logOn": "06:32:25",
+      "notReady": "00:05:26",
+      "avail": "00:32:46",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "02:24:56",
+      "wrapUp": "00:19:41",
+      "breakTime": "00:00:00",
+      "other": "01:02:23",
+      "startDate": "8/6/2026 14:52:32",
+      "leadCount": 6,
+      "lastUpdated": "2026-08-07T02:38:40.051Z"
+    }
+  ],
+  "teamTotals": {
+    "totalLeads": 24,
+    "totalOutCalls": 244,
+    "totalQuotes": null
+  },
+  "speedToLead": null
+}
