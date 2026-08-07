@@ -71,45 +71,45 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy On Break",
-      "duration": "00:02:41",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:02:00",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "156",
-      "logOn": "07:27:06",
+      "logOn": "07:32:16",
       "notReady": "00:08:35",
-      "avail": "00:43:02",
+      "avail": "00:45:33",
       "onIncCalls": "00:00:00",
       "onOutCalls": "04:49:00",
       "wrapUp": "00:48:14",
-      "breakTime": "00:04:31",
+      "breakTime": "00:07:52",
       "other": "00:49:53",
       "startDate": "8/6/2026 11:28:20",
       "leadCount": 17,
-      "lastUpdated": "2026-08-07T00:14:57.051Z"
+      "lastUpdated": "2026-08-07T00:20:07.045Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
-      "status": "Available",
-      "duration": "00:04:15",
+      "status": "Busy Other - Offline - Tech Issues",
+      "duration": "00:03:03",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "83",
-      "logOn": "04:08:41",
+      "outCalls": "84",
+      "logOn": "04:13:51",
       "notReady": "00:05:26",
-      "avail": "00:27:43",
+      "avail": "00:32:24",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:14:45",
-      "wrapUp": "00:19:18",
+      "onOutCalls": "02:16:24",
+      "wrapUp": "00:19:20",
       "breakTime": "00:00:00",
       "other": "00:57:08",
       "startDate": "8/6/2026 14:52:32",
       "leadCount": 6,
-      "lastUpdated": "2026-08-07T00:14:57.051Z"
+      "lastUpdated": "2026-08-07T00:20:07.045Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -180,8 +180,8 @@
   ],
   "teamTotals": {
     "totalLeads": 53,
-    "totalOutCalls": 744,
-    "totalQuotes": 501
+    "totalOutCalls": 745,
+    "totalQuotes": 502
   },
   "speedToLead": {
     "reportDate": "2026-08-05",
@@ -199,5 +199,5 @@
     "overallCount": "481",
     "processedAt": "2026-08-06T13:45:11.698Z"
   },
-  "generatedAt": "2026-08-07T00:15:15.460Z"
+  "generatedAt": "2026-08-07T00:20:18.208Z"
 }
