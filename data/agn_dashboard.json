@@ -2,9 +2,9 @@
   "ok": true,
   "agents": [],
   "teamTotals": {
-    "totalLeads": 12,
+    "totalLeads": 13,
     "totalOutCalls": 0,
-    "totalQuotes": 23
+    "totalQuotes": 26
   },
   "speedToLead": {
     "reportDate": "2026-08-06",
@@ -22,5 +22,5 @@
     "overallCount": "498",
     "processedAt": "2026-08-07T12:32:54.693Z"
   },
-  "generatedAt": "2026-08-07T14:15:15.542Z"
+  "generatedAt": "2026-08-07T14:20:15.545Z"
 }
