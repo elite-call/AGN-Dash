@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:17:52",
+      "duration": "00:22:31",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
       "outCalls": "66",
-      "logOn": "03:16:03",
+      "logOn": "03:20:42",
       "notReady": "00:12:34",
       "avail": "00:55:11",
       "onIncCalls": "00:00:00",
@@ -21,19 +21,19 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 08:05:14",
       "leadCount": 3,
-      "lastUpdated": "2026-08-11T17:25:07.907Z"
+      "lastUpdated": "2026-08-11T17:29:45.909Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:20:15",
+      "duration": "00:24:53",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "83",
-      "logOn": "03:49:42",
+      "logOn": "03:54:20",
       "notReady": "00:11:04",
       "avail": "01:18:54",
       "onIncCalls": "00:00:00",
@@ -43,19 +43,19 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 08:05:09",
       "leadCount": 5,
-      "lastUpdated": "2026-08-11T17:25:07.907Z"
+      "lastUpdated": "2026-08-11T17:29:45.909Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "+12242972927",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:19:26",
+      "duration": "00:24:05",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "69",
-      "logOn": "04:18:10",
+      "logOn": "04:22:49",
       "notReady": "00:10:27",
       "avail": "01:27:37",
       "onIncCalls": "00:00:00",
@@ -65,7 +65,7 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 08:06:57",
       "leadCount": 4,
-      "lastUpdated": "2026-08-11T17:25:07.907Z"
+      "lastUpdated": "2026-08-11T17:29:45.909Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:18:37",
+      "duration": "00:23:16",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "19",
-      "logOn": "00:52:23",
+      "logOn": "00:57:02",
       "notReady": "00:01:22",
       "avail": "00:08:22",
       "onIncCalls": "00:00:00",
@@ -131,19 +131,19 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 11:31:58",
       "leadCount": 1,
-      "lastUpdated": "2026-08-11T17:25:07.907Z"
+      "lastUpdated": "2026-08-11T17:29:45.909Z"
     },
     {
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
       "status": "Accept Internal Calls",
-      "duration": "00:17:37",
+      "duration": "00:22:16",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "12",
-      "logOn": "00:45:59",
+      "logOn": "00:50:37",
       "notReady": "00:02:55",
       "avail": "00:07:03",
       "onIncCalls": "00:00:00",
@@ -153,19 +153,19 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 11:39:09",
       "leadCount": 0,
-      "lastUpdated": "2026-08-11T17:25:07.907Z"
+      "lastUpdated": "2026-08-11T17:29:45.909Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "+13313073511",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:20:13",
+      "duration": "00:24:51",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "3",
-      "logOn": "00:34:15",
+      "logOn": "00:38:54",
       "notReady": "00:00:30",
       "avail": "00:13:06",
       "onIncCalls": "00:00:00",
@@ -175,19 +175,19 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 11:50:52",
       "leadCount": 0,
-      "lastUpdated": "2026-08-11T17:25:07.907Z"
+      "lastUpdated": "2026-08-11T17:29:45.909Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:20:38",
+      "duration": "00:25:16",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "6",
-      "logOn": "00:30:11",
+      "logOn": "00:34:50",
       "notReady": "00:02:39",
       "avail": "00:01:39",
       "onIncCalls": "00:00:00",
@@ -197,7 +197,7 @@
       "other": "00:00:27",
       "startDate": "8/11/2026 11:54:56",
       "leadCount": 0,
-      "lastUpdated": "2026-08-11T17:25:07.907Z"
+      "lastUpdated": "2026-08-11T17:29:45.909Z"
     }
   ],
   "teamTotals": {
@@ -227,7 +227,7 @@
     "backlogPstCount": "22",
     "outboundCstCount": "1",
     "outboundPstCount": "0",
-    "capturedAt": "2026-08-11T17:17:24.957Z"
+    "capturedAt": "2026-08-11T17:27:24.999Z"
   },
-  "generatedAt": "2026-08-11T17:25:15.584Z"
+  "generatedAt": "2026-08-11T17:30:17.501Z"
 }
