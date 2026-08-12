@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "08:12:49",
+      "duration": "08:17:28",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
       "outCalls": "66",
-      "logOn": "11:10:59",
+      "logOn": "11:15:38",
       "notReady": "00:12:34",
       "avail": "00:55:11",
       "onIncCalls": "00:00:00",
@@ -21,19 +21,19 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 08:05:14",
       "leadCount": 3,
-      "lastUpdated": "2026-08-12T01:20:04.499Z"
+      "lastUpdated": "2026-08-12T01:24:43.504Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "08:15:11",
+      "duration": "08:19:50",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "83",
-      "logOn": "11:44:38",
+      "logOn": "11:49:17",
       "notReady": "00:11:04",
       "avail": "01:18:54",
       "onIncCalls": "00:00:00",
@@ -43,19 +43,19 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 08:05:09",
       "leadCount": 5,
-      "lastUpdated": "2026-08-12T01:20:04.499Z"
+      "lastUpdated": "2026-08-12T01:24:43.504Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "+12242972927",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "08:14:22",
+      "duration": "08:19:01",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "69",
-      "logOn": "12:13:06",
+      "logOn": "12:17:45",
       "notReady": "00:10:27",
       "avail": "01:27:37",
       "onIncCalls": "00:00:00",
@@ -65,7 +65,7 @@
       "other": "00:00:00",
       "startDate": "8/11/2026 08:06:57",
       "leadCount": 4,
-      "lastUpdated": "2026-08-12T01:20:04.499Z"
+      "lastUpdated": "2026-08-12T01:24:43.504Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -182,12 +182,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Not Set - Dialout - Error",
-      "duration": "00:44:38",
+      "duration": "00:49:17",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "119",
-      "logOn": "08:25:07",
+      "logOn": "08:29:46",
       "notReady": "00:11:46",
       "avail": "01:51:33",
       "onIncCalls": "00:00:00",
@@ -197,7 +197,7 @@
       "other": "01:23:37",
       "startDate": "8/11/2026 11:54:56",
       "leadCount": 4,
-      "lastUpdated": "2026-08-12T01:20:04.499Z"
+      "lastUpdated": "2026-08-12T01:24:43.504Z"
     }
   ],
   "teamTotals": {
@@ -223,11 +223,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-11",
-    "backlogCstCount": "57",
+    "backlogCstCount": "61",
     "backlogPstCount": "0",
     "outboundCstCount": "28",
-    "outboundPstCount": "5",
-    "capturedAt": "2026-08-12T01:11:19.557Z"
+    "outboundPstCount": "3",
+    "capturedAt": "2026-08-12T01:21:19.561Z"
   },
-  "generatedAt": "2026-08-12T01:20:17.399Z"
+  "generatedAt": "2026-08-12T01:25:15.664Z"
 }
