@@ -1,9 +1,76 @@
 {
   "ok": true,
-  "agents": [],
+  "agents": [
+    {
+      "agent": "Gina Hamilton",
+      "team": "Elite Agents",
+      "phone": "+12242972518",
+      "status": "Available - Ringing",
+      "duration": "00:00:11",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "3",
+      "logOn": "00:04:43",
+      "notReady": "00:00:04",
+      "avail": "00:00:27",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:03:01",
+      "wrapUp": "00:01:00",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/12/2026 08:00:25",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-12T13:05:08.900Z"
+    },
+    {
+      "agent": "Bailee Raimer",
+      "team": "Elite Agents",
+      "phone": "+12242972528",
+      "status": "Busy Wrapping Up",
+      "duration": "00:00:12",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "1",
+      "logOn": "00:01:31",
+      "notReady": "00:00:06",
+      "avail": "00:00:31",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:00:42",
+      "wrapUp": "00:00:00",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/12/2026 08:03:37",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-12T13:05:08.900Z"
+    },
+    {
+      "agent": "Hunter Polland",
+      "team": "Elite Agents",
+      "phone": "+12242972927",
+      "status": "Available - Ringing",
+      "duration": "00:00:03",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "0",
+      "logOn": "00:00:13",
+      "notReady": "00:00:10",
+      "avail": "00:00:00",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:00:00",
+      "wrapUp": "00:00:00",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/12/2026 08:04:55",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-12T13:05:08.900Z"
+    }
+  ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 0,
+    "totalOutCalls": 4,
     "totalQuotes": 0
   },
   "speedToLead": {
@@ -24,11 +91,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-12",
-    "backlogCstCount": "141",
+    "backlogCstCount": "142",
     "backlogPstCount": "33",
     "outboundCstCount": "28",
     "outboundPstCount": "2",
-    "capturedAt": "2026-08-12T12:50:23.980Z"
+    "capturedAt": "2026-08-12T13:00:24.320Z"
   },
-  "generatedAt": "2026-08-12T13:00:16.091Z"
+  "generatedAt": "2026-08-12T13:05:16.807Z"
 }
