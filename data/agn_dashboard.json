@@ -115,57 +115,57 @@
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:03:40",
+      "status": "Accept Internal Calls",
+      "duration": "00:01:26",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "115",
-      "logOn": "05:43:35",
-      "notReady": "00:04:00",
-      "avail": "02:27:37",
+      "outCalls": "117",
+      "logOn": "05:48:14",
+      "notReady": "00:04:06",
+      "avail": "02:28:08",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:21:30",
-      "wrapUp": "00:25:53",
+      "onOutCalls": "02:27:14",
+      "wrapUp": "00:26:24",
       "breakTime": "00:03:55",
       "other": "00:00:00",
       "startDate": "8/13/2026 10:56:09",
       "leadCount": 0,
-      "lastUpdated": "2026-08-13T23:25:10.624Z"
+      "lastUpdated": "2026-08-13T23:29:48.641Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:34",
+      "duration": "00:00:46",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "91",
-      "logOn": "05:42:57",
-      "notReady": "00:06:41",
-      "avail": "03:03:25",
+      "outCalls": "94",
+      "logOn": "05:47:36",
+      "notReady": "00:07:43",
+      "avail": "03:04:11",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:52:56",
-      "wrapUp": "00:30:06",
+      "onOutCalls": "01:54:33",
+      "wrapUp": "00:31:08",
       "breakTime": "00:05:46",
       "other": "00:01:18",
       "startDate": "8/13/2026 11:44:27",
       "leadCount": 8,
-      "lastUpdated": "2026-08-13T23:25:10.624Z"
+      "lastUpdated": "2026-08-13T23:29:48.641Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:09:12",
+      "duration": "00:11:16",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "121",
-      "logOn": "05:26:11",
+      "logOn": "05:28:15",
       "notReady": "00:08:01",
       "avail": "01:18:01",
       "onIncCalls": "00:00:00",
@@ -175,13 +175,13 @@
       "other": "00:05:01",
       "startDate": "8/13/2026 11:42:19",
       "leadCount": 15,
-      "lastUpdated": "2026-08-13T23:25:10.624Z"
+      "lastUpdated": "2026-08-13T23:27:13.635Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 65,
-    "totalOutCalls": 763,
-    "totalQuotes": 505
+    "totalOutCalls": 768,
+    "totalQuotes": 507
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -203,9 +203,9 @@
     "reportDate": "2026-08-13",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "20",
-    "outboundPstCount": "9",
-    "capturedAt": "2026-08-13T23:18:15.661Z"
+    "outboundCstCount": "19",
+    "outboundPstCount": "7",
+    "capturedAt": "2026-08-13T23:28:15.683Z"
   },
-  "generatedAt": "2026-08-13T23:25:23.809Z"
+  "generatedAt": "2026-08-13T23:30:17.895Z"
 }
