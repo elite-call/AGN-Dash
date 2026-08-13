@@ -138,12 +138,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:01:20",
+      "duration": "00:06:30",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "91",
-      "logOn": "05:22:48",
+      "logOn": "05:27:58",
       "notReady": "00:06:41",
       "avail": "02:42:30",
       "onIncCalls": "00:00:00",
@@ -153,35 +153,35 @@
       "other": "00:01:18",
       "startDate": "8/13/2026 11:44:27",
       "leadCount": 8,
-      "lastUpdated": "2026-08-13T23:05:00.545Z"
+      "lastUpdated": "2026-08-13T23:10:10.570Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:04:48",
+      "duration": "00:00:10",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "117",
-      "logOn": "05:12:21",
-      "notReady": "00:07:46",
-      "avail": "01:16:43",
+      "outCalls": "119",
+      "logOn": "05:14:37",
+      "notReady": "00:08:00",
+      "avail": "01:17:24",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:58:13",
-      "wrapUp": "00:29:46",
+      "onOutCalls": "03:03:57",
+      "wrapUp": "00:29:57",
       "breakTime": "00:00:00",
-      "other": "00:04:56",
+      "other": "00:04:59",
       "startDate": "8/13/2026 11:42:19",
-      "leadCount": 14,
-      "lastUpdated": "2026-08-13T23:05:00.545Z"
+      "leadCount": 15,
+      "lastUpdated": "2026-08-13T23:10:10.570Z"
     }
   ],
   "teamTotals": {
-    "totalLeads": 64,
-    "totalOutCalls": 759,
-    "totalQuotes": 499
+    "totalLeads": 65,
+    "totalOutCalls": 761,
+    "totalQuotes": 501
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -203,9 +203,9 @@
     "reportDate": "2026-08-13",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "11",
-    "outboundPstCount": "3",
-    "capturedAt": "2026-08-13T22:58:15.576Z"
+    "outboundCstCount": "18",
+    "outboundPstCount": "6",
+    "capturedAt": "2026-08-13T23:08:15.867Z"
   },
-  "generatedAt": "2026-08-13T23:05:22.536Z"
+  "generatedAt": "2026-08-13T23:10:20.958Z"
 }
