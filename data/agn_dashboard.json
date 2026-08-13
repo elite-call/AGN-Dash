@@ -6,44 +6,44 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:15",
+      "duration": "00:02:04",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
-      "outCalls": "16",
-      "logOn": "00:29:27",
+      "outCalls": "19",
+      "logOn": "00:34:37",
       "notReady": "00:03:04",
-      "avail": "00:06:21",
+      "avail": "00:07:02",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:15:35",
-      "wrapUp": "00:04:12",
+      "onOutCalls": "00:17:25",
+      "wrapUp": "00:05:02",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/13/2026 08:05:27",
       "leadCount": 0,
-      "lastUpdated": "2026-08-13T13:34:54.912Z"
+      "lastUpdated": "2026-08-13T13:40:04.903Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "+12242972927",
-      "status": "Busy Dialing Out - Connected",
-      "duration": "00:00:11",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:01:20",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "19",
-      "logOn": "00:29:40",
+      "outCalls": "20",
+      "logOn": "00:34:50",
       "notReady": "00:02:13",
-      "avail": "00:03:58",
+      "avail": "00:07:11",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:14:48",
-      "wrapUp": "00:08:22",
+      "onOutCalls": "00:15:35",
+      "wrapUp": "00:08:23",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/13/2026 08:05:14",
       "leadCount": 0,
-      "lastUpdated": "2026-08-13T13:34:54.912Z"
+      "lastUpdated": "2026-08-13T13:40:04.903Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -70,7 +70,7 @@
   ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 42,
+    "totalOutCalls": 46,
     "totalQuotes": 6
   },
   "speedToLead": {
@@ -97,5 +97,5 @@
     "outboundPstCount": "6",
     "capturedAt": "2026-08-13T13:34:18.970Z"
   },
-  "generatedAt": "2026-08-13T13:35:16.961Z"
+  "generatedAt": "2026-08-13T13:40:17.383Z"
 }
