@@ -137,51 +137,51 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:02:29",
+      "status": "Accept Internal Calls",
+      "duration": "00:01:38",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "87",
-      "logOn": "05:12:59",
+      "outCalls": "90",
+      "logOn": "05:17:38",
       "notReady": "00:06:41",
-      "avail": "02:37:16",
+      "avail": "02:38:17",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:48:14",
-      "wrapUp": "00:29:03",
+      "onOutCalls": "01:51:57",
+      "wrapUp": "00:29:49",
       "breakTime": "00:05:46",
       "other": "00:01:18",
       "startDate": "8/13/2026 11:44:27",
       "leadCount": 8,
-      "lastUpdated": "2026-08-13T22:55:11.499Z"
+      "lastUpdated": "2026-08-13T22:59:50.518Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy Wrapping Up",
-      "duration": "00:00:15",
+      "duration": "00:00:20",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "113",
-      "logOn": "05:01:58",
-      "notReady": "00:07:32",
-      "avail": "01:15:14",
+      "outCalls": "117",
+      "logOn": "05:07:11",
+      "notReady": "00:07:46",
+      "avail": "01:16:31",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:55:32",
-      "wrapUp": "00:28:21",
+      "onOutCalls": "02:58:13",
+      "wrapUp": "00:29:15",
       "breakTime": "00:00:00",
-      "other": "00:04:53",
+      "other": "00:04:56",
       "startDate": "8/13/2026 11:42:19",
       "leadCount": 14,
-      "lastUpdated": "2026-08-13T22:54:09.491Z"
+      "lastUpdated": "2026-08-13T22:59:50.518Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 64,
-    "totalOutCalls": 751,
-    "totalQuotes": 491
+    "totalOutCalls": 758,
+    "totalQuotes": 497
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -203,9 +203,9 @@
     "reportDate": "2026-08-13",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "13",
+    "outboundCstCount": "11",
     "outboundPstCount": "3",
-    "capturedAt": "2026-08-13T22:48:15.766Z"
+    "capturedAt": "2026-08-13T22:58:15.576Z"
   },
-  "generatedAt": "2026-08-13T22:55:16.812Z"
+  "generatedAt": "2026-08-13T23:00:16.241Z"
 }
