@@ -1,10 +1,77 @@
 {
   "ok": true,
-  "agents": [],
+  "agents": [
+    {
+      "agent": "Bailee Raimer",
+      "team": "Elite Agents",
+      "phone": "+12242972528",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:28",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "3",
+      "logOn": "00:04:19",
+      "notReady": "00:00:00",
+      "avail": "00:00:48",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:02:00",
+      "wrapUp": "00:01:03",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/13/2026 08:05:27",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-13T13:09:46.900Z"
+    },
+    {
+      "agent": "Hunter Polland",
+      "team": "Elite Agents",
+      "phone": "+12242972927",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:20",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "3",
+      "logOn": "00:04:32",
+      "notReady": "00:01:11",
+      "avail": "00:01:14",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:00:45",
+      "wrapUp": "00:01:02",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/13/2026 08:05:14",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-13T13:09:46.900Z"
+    },
+    {
+      "agent": "Gina Hamilton",
+      "team": "Elite Agents",
+      "phone": "+12242972518",
+      "status": "Available",
+      "duration": "00:00:09",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "0",
+      "logOn": "00:00:11",
+      "notReady": "00:00:02",
+      "avail": "00:00:00",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:00:00",
+      "wrapUp": "00:00:00",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/13/2026 08:09:35",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-13T13:09:46.900Z"
+    }
+  ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 0,
-    "totalQuotes": 0
+    "totalOutCalls": 6,
+    "totalQuotes": 2
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -30,5 +97,5 @@
     "outboundPstCount": "6",
     "capturedAt": "2026-08-13T13:04:18.967Z"
   },
-  "generatedAt": "2026-08-13T13:05:24.409Z"
+  "generatedAt": "2026-08-13T13:10:18.708Z"
 }
