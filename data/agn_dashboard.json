@@ -138,50 +138,50 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:01:38",
+      "duration": "00:01:20",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "90",
-      "logOn": "05:17:38",
+      "outCalls": "91",
+      "logOn": "05:22:48",
       "notReady": "00:06:41",
-      "avail": "02:38:17",
+      "avail": "02:42:30",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:51:57",
-      "wrapUp": "00:29:49",
+      "onOutCalls": "01:52:56",
+      "wrapUp": "00:30:06",
       "breakTime": "00:05:46",
       "other": "00:01:18",
       "startDate": "8/13/2026 11:44:27",
       "leadCount": 8,
-      "lastUpdated": "2026-08-13T22:59:50.518Z"
+      "lastUpdated": "2026-08-13T23:05:00.545Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy Wrapping Up",
-      "duration": "00:00:20",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:04:48",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "117",
-      "logOn": "05:07:11",
+      "logOn": "05:12:21",
       "notReady": "00:07:46",
-      "avail": "01:16:31",
+      "avail": "01:16:43",
       "onIncCalls": "00:00:00",
       "onOutCalls": "02:58:13",
-      "wrapUp": "00:29:15",
+      "wrapUp": "00:29:46",
       "breakTime": "00:00:00",
       "other": "00:04:56",
       "startDate": "8/13/2026 11:42:19",
       "leadCount": 14,
-      "lastUpdated": "2026-08-13T22:59:50.518Z"
+      "lastUpdated": "2026-08-13T23:05:00.545Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 64,
-    "totalOutCalls": 758,
-    "totalQuotes": 497
+    "totalOutCalls": 759,
+    "totalQuotes": 499
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -207,5 +207,5 @@
     "outboundPstCount": "3",
     "capturedAt": "2026-08-13T22:58:15.576Z"
   },
-  "generatedAt": "2026-08-13T23:00:16.241Z"
+  "generatedAt": "2026-08-13T23:05:22.536Z"
 }
