@@ -71,45 +71,45 @@
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
-      "status": "Available - Ringing",
+      "status": "Busy Wrapping Up",
       "duration": "00:00:05",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
-      "outCalls": "118",
-      "logOn": "07:12:24",
+      "outCalls": "120",
+      "logOn": "07:15:31",
       "notReady": "00:12:46",
-      "avail": "03:41:17",
+      "avail": "03:41:36",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:31:26",
-      "wrapUp": "00:41:31",
+      "onOutCalls": "02:33:41",
+      "wrapUp": "00:42:03",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/13/2026 08:47:52",
       "leadCount": 6,
-      "lastUpdated": "2026-08-13T21:25:09.916Z"
+      "lastUpdated": "2026-08-13T21:28:16.902Z"
     },
     {
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "+13313073503",
       "status": "Accept Internal Calls",
-      "duration": "00:00:51",
+      "duration": "00:03:20",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
-      "outCalls": "94",
-      "logOn": "05:00:21",
+      "outCalls": "95",
+      "logOn": "05:05:00",
       "notReady": "00:02:07",
-      "avail": "03:17:47",
+      "avail": "03:19:12",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:19:03",
-      "wrapUp": "00:07:55",
+      "onOutCalls": "01:19:35",
+      "wrapUp": "00:07:58",
       "breakTime": "00:00:02",
       "other": "00:00:00",
       "startDate": "8/13/2026 08:50:05",
       "leadCount": 0,
-      "lastUpdated": "2026-08-13T21:25:09.916Z"
+      "lastUpdated": "2026-08-13T21:29:48.913Z"
     },
     {
       "agent": "Billy Kerth",
@@ -138,12 +138,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:02:34",
+      "duration": "00:07:13",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "63",
-      "logOn": "03:42:58",
+      "logOn": "03:47:37",
       "notReady": "00:03:46",
       "avail": "01:53:20",
       "onIncCalls": "00:00:00",
@@ -153,7 +153,7 @@
       "other": "00:01:18",
       "startDate": "8/13/2026 11:44:27",
       "leadCount": 6,
-      "lastUpdated": "2026-08-13T21:25:09.916Z"
+      "lastUpdated": "2026-08-13T21:29:48.913Z"
     },
     {
       "agent": "Shiza Zehra",
@@ -180,8 +180,8 @@
   ],
   "teamTotals": {
     "totalLeads": 56,
-    "totalOutCalls": 679,
-    "totalQuotes": 436
+    "totalOutCalls": 682,
+    "totalQuotes": 438
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -205,7 +205,7 @@
     "backlogPstCount": "0",
     "outboundCstCount": "2",
     "outboundPstCount": "0",
-    "capturedAt": "2026-08-13T21:18:14.954Z"
+    "capturedAt": "2026-08-13T21:28:14.982Z"
   },
-  "generatedAt": "2026-08-13T21:25:15.290Z"
+  "generatedAt": "2026-08-13T21:30:19.313Z"
 }
