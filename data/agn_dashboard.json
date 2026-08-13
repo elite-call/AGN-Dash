@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy Dialing Out - Connected",
-      "duration": "00:08:29",
+      "duration": "00:13:08",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
       "outCalls": "142",
-      "logOn": "05:26:25",
+      "logOn": "05:31:04",
       "notReady": "00:13:14",
       "avail": "01:30:07",
       "onIncCalls": "00:00:00",
@@ -21,7 +21,7 @@
       "other": "00:00:00",
       "startDate": "8/13/2026 08:05:27",
       "leadCount": 5,
-      "lastUpdated": "2026-08-13T20:35:02.911Z"
+      "lastUpdated": "2026-08-13T20:39:41.909Z"
     },
     {
       "agent": "Hunter Polland",
@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Accept Internal Calls",
-      "duration": "00:09:49",
+      "duration": "00:14:28",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
       "outCalls": "98",
-      "logOn": "06:22:17",
+      "logOn": "06:26:56",
       "notReady": "00:09:52",
       "avail": "03:10:50",
       "onIncCalls": "00:00:00",
@@ -87,19 +87,19 @@
       "other": "00:00:00",
       "startDate": "8/13/2026 08:47:52",
       "leadCount": 6,
-      "lastUpdated": "2026-08-13T20:35:02.911Z"
+      "lastUpdated": "2026-08-13T20:39:41.909Z"
     },
     {
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "+13313073503",
       "status": "Accept Internal Calls",
-      "duration": "00:00:08",
+      "duration": "00:01:41",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "88",
-      "logOn": "04:29:03",
+      "logOn": "04:30:37",
       "notReady": "00:01:59",
       "avail": "02:59:03",
       "onIncCalls": "00:00:00",
@@ -109,29 +109,29 @@
       "other": "00:00:00",
       "startDate": "8/13/2026 08:50:05",
       "leadCount": 0,
-      "lastUpdated": "2026-08-13T20:35:02.911Z"
+      "lastUpdated": "2026-08-13T20:36:36.913Z"
     },
     {
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:50",
+      "status": "Not Set - Dialout - Error",
+      "duration": "00:00:18",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "78",
-      "logOn": "03:58:00",
-      "notReady": "00:01:41",
-      "avail": "01:44:27",
+      "outCalls": "84",
+      "logOn": "04:02:39",
+      "notReady": "00:02:24",
+      "avail": "01:46:29",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:31:59",
-      "wrapUp": "00:19:03",
+      "onOutCalls": "01:33:40",
+      "wrapUp": "00:19:48",
       "breakTime": "00:03:55",
       "other": "00:00:00",
       "startDate": "8/13/2026 10:56:09",
       "leadCount": 0,
-      "lastUpdated": "2026-08-13T20:35:02.911Z"
+      "lastUpdated": "2026-08-13T20:39:41.909Z"
     },
     {
       "agent": "Erika Carranza",
@@ -159,29 +159,29 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Available - Ringing",
-      "duration": "00:01:14",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:01:50",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
-      "outCalls": "83",
-      "logOn": "03:23:47",
+      "outCalls": "85",
+      "logOn": "03:27:17",
       "notReady": "00:06:41",
-      "avail": "01:07:38",
+      "avail": "01:09:35",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:33:12",
-      "wrapUp": "00:20:24",
+      "onOutCalls": "01:33:46",
+      "wrapUp": "00:20:36",
       "breakTime": "00:00:00",
       "other": "00:04:43",
       "startDate": "8/13/2026 11:42:19",
       "leadCount": 9,
-      "lastUpdated": "2026-08-13T20:30:23.904Z"
+      "lastUpdated": "2026-08-13T20:39:41.909Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 53,
-    "totalOutCalls": 613,
-    "totalQuotes": 387
+    "totalOutCalls": 621,
+    "totalQuotes": 390
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -203,9 +203,9 @@
     "reportDate": "2026-08-13",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "0",
+    "outboundCstCount": "4",
     "outboundPstCount": "0",
-    "capturedAt": "2026-08-13T20:28:00.951Z"
+    "capturedAt": "2026-08-13T20:38:01.161Z"
   },
-  "generatedAt": "2026-08-13T20:35:16.784Z"
+  "generatedAt": "2026-08-13T20:40:16.854Z"
 }
