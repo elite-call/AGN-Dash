@@ -138,12 +138,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:05:32",
+      "duration": "00:10:11",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "104",
-      "logOn": "06:42:55",
+      "logOn": "06:47:34",
       "notReady": "00:07:44",
       "avail": "03:30:17",
       "onIncCalls": "00:00:00",
@@ -153,19 +153,19 @@
       "other": "00:01:18",
       "startDate": "8/13/2026 11:44:27",
       "leadCount": 9,
-      "lastUpdated": "2026-08-14T00:25:07.737Z"
+      "lastUpdated": "2026-08-14T00:29:46.739Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Available",
-      "duration": "00:02:28",
+      "duration": "00:05:34",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "133",
-      "logOn": "06:01:36",
+      "logOn": "06:04:42",
       "notReady": "00:09:32",
       "avail": "01:28:37",
       "onIncCalls": "00:00:00",
@@ -175,13 +175,13 @@
       "other": "00:05:05",
       "startDate": "8/13/2026 11:42:19",
       "leadCount": 17,
-      "lastUpdated": "2026-08-14T00:25:07.737Z"
+      "lastUpdated": "2026-08-14T00:28:13.737Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 68,
     "totalOutCalls": 807,
-    "totalQuotes": 529
+    "totalQuotes": 531
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -201,11 +201,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-13",
-    "backlogCstCount": "24",
+    "backlogCstCount": "28",
     "backlogPstCount": "0",
     "outboundCstCount": "18",
     "outboundPstCount": "0",
-    "capturedAt": "2026-08-14T00:18:15.792Z"
+    "capturedAt": "2026-08-14T00:28:15.789Z"
   },
-  "generatedAt": "2026-08-14T00:25:16.759Z"
+  "generatedAt": "2026-08-14T00:30:17.481Z"
 }
