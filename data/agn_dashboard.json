@@ -115,45 +115,45 @@
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
-      "status": "Busy Dialing Out - Connected",
-      "duration": "00:00:09",
+      "status": "Available",
+      "duration": "00:02:31",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "132",
-      "logOn": "06:33:13",
+      "outCalls": "134",
+      "logOn": "06:38:23",
       "notReady": "00:05:07",
-      "avail": "02:52:35",
+      "avail": "02:52:36",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:41:10",
-      "wrapUp": "00:30:29",
+      "onOutCalls": "02:43:17",
+      "wrapUp": "00:31:04",
       "breakTime": "00:03:55",
       "other": "00:00:00",
       "startDate": "8/13/2026 10:56:09",
       "leadCount": 0,
-      "lastUpdated": "2026-08-14T00:14:47.733Z"
+      "lastUpdated": "2026-08-14T00:19:57.720Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Available",
-      "duration": "00:01:55",
+      "status": "Accept Internal Calls",
+      "duration": "00:00:22",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "102",
-      "logOn": "06:32:35",
+      "outCalls": "104",
+      "logOn": "06:37:45",
       "notReady": "00:07:44",
-      "avail": "03:25:46",
+      "avail": "03:30:17",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:13:24",
-      "wrapUp": "00:34:30",
+      "onOutCalls": "02:14:22",
+      "wrapUp": "00:35:05",
       "breakTime": "00:05:46",
       "other": "00:01:18",
       "startDate": "8/13/2026 11:44:27",
       "leadCount": 9,
-      "lastUpdated": "2026-08-14T00:14:47.733Z"
+      "lastUpdated": "2026-08-14T00:19:57.720Z"
     },
     {
       "agent": "Shiza Zehra",
@@ -180,8 +180,8 @@
   ],
   "teamTotals": {
     "totalLeads": 67,
-    "totalOutCalls": 802,
-    "totalQuotes": 530
+    "totalOutCalls": 806,
+    "totalQuotes": 529
   },
   "speedToLead": {
     "reportDate": "2026-08-12",
@@ -201,11 +201,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-13",
-    "backlogCstCount": "22",
+    "backlogCstCount": "24",
     "backlogPstCount": "0",
     "outboundCstCount": "18",
     "outboundPstCount": "0",
-    "capturedAt": "2026-08-14T00:08:15.841Z"
+    "capturedAt": "2026-08-14T00:18:15.792Z"
   },
-  "generatedAt": "2026-08-14T00:15:16.979Z"
+  "generatedAt": "2026-08-14T00:20:18.038Z"
 }
