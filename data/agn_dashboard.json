@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:02:58",
+      "duration": "00:08:17",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "5",
-      "logOn": "00:08:19",
+      "logOn": "00:13:38",
       "notReady": "00:00:06",
       "avail": "00:01:40",
       "onIncCalls": "00:00:00",
@@ -21,57 +21,57 @@
       "other": "00:00:00",
       "startDate": "8/17/2026 08:01:21",
       "leadCount": 0,
-      "lastUpdated": "2026-08-17T13:09:42.912Z"
+      "lastUpdated": "2026-08-17T13:15:01.905Z"
     },
     {
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "+12242972528",
-      "status": "Not Set - Dialout - Error",
-      "duration": "00:00:28",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:09",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "4",
-      "logOn": "00:05:31",
-      "notReady": "00:01:05",
-      "avail": "00:01:41",
+      "outCalls": "7",
+      "logOn": "00:10:50",
+      "notReady": "00:01:38",
+      "avail": "00:02:15",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:01:15",
-      "wrapUp": "00:01:02",
+      "onOutCalls": "00:04:31",
+      "wrapUp": "00:02:17",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/17/2026 08:04:10",
       "leadCount": 0,
-      "lastUpdated": "2026-08-17T13:09:42.912Z"
+      "lastUpdated": "2026-08-17T13:15:01.905Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "+12242972927",
-      "status": "Busy Wrapping Up",
-      "duration": "00:00:23",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:01:13",
       "answered": "0",
       "missed": "0",
-      "transferred": "0",
-      "outCalls": "3",
-      "logOn": "00:04:08",
+      "transferred": "2",
+      "outCalls": "5",
+      "logOn": "00:09:27",
       "notReady": "00:01:04",
-      "avail": "00:00:57",
+      "avail": "00:01:55",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:01:12",
-      "wrapUp": "00:00:32",
+      "onOutCalls": "00:03:03",
+      "wrapUp": "00:02:11",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/17/2026 08:05:33",
       "leadCount": 0,
-      "lastUpdated": "2026-08-17T13:09:42.912Z"
+      "lastUpdated": "2026-08-17T13:15:01.905Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 12,
-    "totalQuotes": 3
+    "totalOutCalls": 17,
+    "totalQuotes": 4
   },
   "speedToLead": {
     "reportDate": "2026-08-13",
@@ -97,5 +97,5 @@
     "outboundPstCount": "9",
     "capturedAt": "2026-08-17T13:09:15.951Z"
   },
-  "generatedAt": "2026-08-17T13:10:16.561Z"
+  "generatedAt": "2026-08-17T13:15:16.496Z"
 }
