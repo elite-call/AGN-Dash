@@ -71,35 +71,35 @@
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:01:02",
+      "status": "Accept Internal Calls",
+      "duration": "00:00:54",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
-      "outCalls": "48",
-      "logOn": "02:53:58",
+      "outCalls": "49",
+      "logOn": "02:59:08",
       "notReady": "00:04:08",
       "avail": "01:20:38",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:10:34",
-      "wrapUp": "00:16:00",
+      "onOutCalls": "01:15:28",
+      "wrapUp": "00:16:24",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/17/2026 08:25:47",
       "leadCount": 0,
-      "lastUpdated": "2026-08-17T16:19:47.897Z"
+      "lastUpdated": "2026-08-17T16:24:56.900Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "+13313073511",
       "status": "Busy On Break",
-      "duration": "00:15:53",
+      "duration": "00:21:03",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "18",
-      "logOn": "02:24:49",
+      "logOn": "02:29:59",
       "notReady": "00:00:25",
       "avail": "01:27:01",
       "onIncCalls": "00:00:00",
@@ -109,7 +109,7 @@
       "other": "00:00:00",
       "startDate": "8/17/2026 08:54:56",
       "leadCount": 1,
-      "lastUpdated": "2026-08-17T16:19:47.897Z"
+      "lastUpdated": "2026-08-17T16:24:56.900Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -136,7 +136,7 @@
   ],
   "teamTotals": {
     "totalLeads": 15,
-    "totalOutCalls": 276,
+    "totalOutCalls": 277,
     "totalQuotes": 174
   },
   "speedToLead": {
@@ -163,5 +163,5 @@
     "outboundPstCount": "1",
     "capturedAt": "2026-08-17T16:20:04.000Z"
   },
-  "generatedAt": "2026-08-17T16:20:16.646Z"
+  "generatedAt": "2026-08-17T16:25:18.049Z"
 }
