@@ -179,9 +179,9 @@
     }
   ],
   "teamTotals": {
-    "totalLeads": 51,
+    "totalLeads": 52,
     "totalOutCalls": 391,
-    "totalQuotes": 460
+    "totalQuotes": 463
   },
   "speedToLead": {
     "reportDate": "2026-08-16",
@@ -207,5 +207,5 @@
     "outboundPstCount": "1",
     "capturedAt": "2026-08-17T17:50:03.988Z"
   },
-  "generatedAt": "2026-08-17T22:40:16.717Z"
+  "generatedAt": "2026-08-17T22:45:16.205Z"
 }
