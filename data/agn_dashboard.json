@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+13313073417",
       "status": "Accept Internal Calls",
-      "duration": "00:11:53",
+      "duration": "00:17:03",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "47",
-      "logOn": "05:10:10",
+      "logOn": "05:15:20",
       "notReady": "00:01:58",
       "avail": "03:29:08",
       "onIncCalls": "00:00:00",
@@ -131,7 +131,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 4,
-      "lastUpdated": "2026-08-18T22:14:48.974Z"
+      "lastUpdated": "2026-08-18T22:19:58.988Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -159,28 +159,28 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Accept Internal Calls",
-      "duration": "00:07:32",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:13",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
-      "outCalls": "58",
-      "logOn": "04:58:00",
+      "outCalls": "60",
+      "logOn": "05:03:10",
       "notReady": "00:03:50",
-      "avail": "03:20:31",
+      "avail": "03:31:20",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:05:07",
-      "wrapUp": "00:20:45",
+      "onOutCalls": "01:05:45",
+      "wrapUp": "00:21:47",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 6,
-      "lastUpdated": "2026-08-18T22:14:48.974Z"
+      "lastUpdated": "2026-08-18T22:19:58.988Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 47,
-    "totalOutCalls": 701,
+    "totalOutCalls": 703,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -207,5 +207,5 @@
     "outboundPstCount": "10",
     "capturedAt": "2026-08-18T22:11:48.026Z"
   },
-  "generatedAt": "2026-08-18T22:15:16.767Z"
+  "generatedAt": "2026-08-18T22:20:17.075Z"
 }
