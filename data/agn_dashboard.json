@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+13313073417",
       "status": "Accept Internal Calls",
-      "duration": "00:17:03",
+      "duration": "00:22:13",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "47",
-      "logOn": "05:15:20",
+      "logOn": "05:20:30",
       "notReady": "00:01:58",
       "avail": "03:29:08",
       "onIncCalls": "00:00:00",
@@ -131,7 +131,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 4,
-      "lastUpdated": "2026-08-18T22:19:58.988Z"
+      "lastUpdated": "2026-08-18T22:25:08.984Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -160,27 +160,27 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:13",
+      "duration": "00:00:18",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
-      "outCalls": "60",
-      "logOn": "05:03:10",
-      "notReady": "00:03:50",
-      "avail": "03:31:20",
+      "outCalls": "64",
+      "logOn": "05:08:20",
+      "notReady": "00:05:46",
+      "avail": "03:33:31",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:05:45",
-      "wrapUp": "00:21:47",
+      "onOutCalls": "01:06:12",
+      "wrapUp": "00:22:18",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 6,
-      "lastUpdated": "2026-08-18T22:19:58.988Z"
+      "lastUpdated": "2026-08-18T22:25:08.984Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 47,
-    "totalOutCalls": 703,
+    "totalOutCalls": 707,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -203,9 +203,9 @@
     "reportDate": "2026-08-18",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "36",
-    "outboundPstCount": "10",
-    "capturedAt": "2026-08-18T22:11:48.026Z"
+    "outboundCstCount": "44",
+    "outboundPstCount": "11",
+    "capturedAt": "2026-08-18T22:21:48.058Z"
   },
-  "generatedAt": "2026-08-18T22:20:17.075Z"
+  "generatedAt": "2026-08-18T22:25:17.145Z"
 }
