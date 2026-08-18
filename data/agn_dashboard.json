@@ -28,44 +28,44 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:02:19",
+      "duration": "00:00:26",
       "answered": "0",
       "missed": "0",
       "transferred": "11",
-      "outCalls": "155",
-      "logOn": "07:13:39",
+      "outCalls": "157",
+      "logOn": "07:18:49",
       "notReady": "00:09:02",
-      "avail": "02:36:08",
+      "avail": "02:36:36",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "03:38:34",
-      "wrapUp": "00:38:27",
+      "onOutCalls": "03:44:20",
+      "wrapUp": "00:39:00",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/18/2026 08:03:08",
       "leadCount": 9,
-      "lastUpdated": "2026-08-18T20:29:55.906Z"
+      "lastUpdated": "2026-08-18T20:35:05.907Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:17",
+      "status": "Accept Internal Calls",
+      "duration": "00:03:17",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "117",
-      "logOn": "06:31:45",
+      "outCalls": "118",
+      "logOn": "06:36:55",
       "notReady": "00:08:02",
       "avail": "03:01:16",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:28:09",
-      "wrapUp": "00:38:49",
+      "onOutCalls": "02:29:56",
+      "wrapUp": "00:39:12",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/18/2026 08:11:39",
       "leadCount": 4,
-      "lastUpdated": "2026-08-18T20:29:55.906Z"
+      "lastUpdated": "2026-08-18T20:35:05.907Z"
     },
     {
       "agent": "Hunter Polland",
@@ -94,12 +94,12 @@
       "team": "Elite Agents",
       "phone": "+13313073511",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:08:56",
+      "duration": "00:14:06",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "73",
-      "logOn": "06:14:25",
+      "logOn": "06:19:35",
       "notReady": "00:04:24",
       "avail": "02:50:07",
       "onIncCalls": "00:00:00",
@@ -109,7 +109,7 @@
       "other": "00:00:46",
       "startDate": "8/18/2026 09:15:29",
       "leadCount": 2,
-      "lastUpdated": "2026-08-18T20:29:55.906Z"
+      "lastUpdated": "2026-08-18T20:35:05.907Z"
     },
     {
       "agent": "Mackenzie Olson",
@@ -159,13 +159,13 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Accept Internal Calls",
-      "duration": "00:15:39",
+      "status": "Available - Ringing",
+      "duration": "00:00:02",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "33",
-      "logOn": "03:13:07",
+      "logOn": "03:18:17",
       "notReady": "00:01:48",
       "avail": "02:12:15",
       "onIncCalls": "00:00:00",
@@ -175,12 +175,12 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 4,
-      "lastUpdated": "2026-08-18T20:29:55.906Z"
+      "lastUpdated": "2026-08-18T20:35:05.907Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 41,
-    "totalOutCalls": 614,
+    "totalOutCalls": 617,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -203,9 +203,9 @@
     "reportDate": "2026-08-18",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "2",
-    "outboundPstCount": "4",
-    "capturedAt": "2026-08-18T20:21:47.958Z"
+    "outboundCstCount": "7",
+    "outboundPstCount": "3",
+    "capturedAt": "2026-08-18T20:31:48.219Z"
   },
-  "generatedAt": "2026-08-18T20:30:18.890Z"
+  "generatedAt": "2026-08-18T20:35:16.282Z"
 }
