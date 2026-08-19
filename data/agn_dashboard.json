@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+13313073417",
       "status": "Accept Internal Calls",
-      "duration": "01:52:07",
+      "duration": "01:56:46",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "47",
-      "logOn": "06:50:24",
+      "logOn": "06:55:03",
       "notReady": "00:01:58",
       "avail": "03:29:08",
       "onIncCalls": "00:00:00",
@@ -131,56 +131,56 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 4,
-      "lastUpdated": "2026-08-18T23:55:03.079Z"
+      "lastUpdated": "2026-08-18T23:59:42.079Z"
     },
     {
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "+13313073503",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:03:20",
+      "status": "Accept Internal Calls",
+      "duration": "00:00:09",
       "answered": "0",
       "missed": "0",
-      "transferred": "2",
-      "outCalls": "93",
-      "logOn": "04:39:28",
+      "transferred": "3",
+      "outCalls": "95",
+      "logOn": "04:44:07",
       "notReady": "00:04:45",
-      "avail": "03:17:03",
+      "avail": "03:18:52",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:02:23",
-      "wrapUp": "00:06:41",
+      "onOutCalls": "01:08:17",
+      "wrapUp": "00:06:48",
       "breakTime": "00:00:04",
       "other": "00:00:02",
       "startDate": "8/18/2026 11:47:16",
       "leadCount": 0,
-      "lastUpdated": "2026-08-18T23:55:03.079Z"
+      "lastUpdated": "2026-08-18T23:59:42.079Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Accept Internal Calls",
-      "duration": "00:00:30",
+      "status": "Busy Wrapping Up",
+      "duration": "00:00:04",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
-      "outCalls": "90",
-      "logOn": "06:38:14",
+      "outCalls": "92",
+      "logOn": "06:42:53",
       "notReady": "00:08:08",
-      "avail": "04:17:44",
+      "avail": "04:20:39",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:41:36",
-      "wrapUp": "00:30:01",
+      "onOutCalls": "01:43:15",
+      "wrapUp": "00:30:32",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 9,
-      "lastUpdated": "2026-08-18T23:55:03.079Z"
+      "lastUpdated": "2026-08-18T23:59:42.079Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 50,
-    "totalOutCalls": 770,
+    "totalOutCalls": 774,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -207,5 +207,5 @@
     "outboundPstCount": "6",
     "capturedAt": "2026-08-18T23:51:48.138Z"
   },
-  "generatedAt": "2026-08-18T23:55:16.203Z"
+  "generatedAt": "2026-08-19T00:00:17.191Z"
 }
