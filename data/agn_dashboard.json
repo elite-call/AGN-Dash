@@ -6,7 +6,7 @@
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "00:00:10",
+      "duration": "00:05:20",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
@@ -21,14 +21,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     },
     {
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "04:29:40",
+      "duration": "04:34:50",
       "answered": "0",
       "missed": "0",
       "transferred": "12",
@@ -43,14 +43,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 08:03:08",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     },
     {
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "01:00:08",
+      "duration": "01:05:18",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
@@ -65,14 +65,14 @@
       "other": "00:00:02",
       "startDate": "8/18/2026 11:47:16",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "00:39:50",
+      "duration": "00:45:00",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
@@ -87,14 +87,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "06:51:22",
+      "duration": "06:56:32",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
@@ -109,14 +109,14 @@
       "other": "01:25:16",
       "startDate": "8/18/2026 08:00:55",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "03:16:08",
+      "duration": "03:21:18",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
@@ -131,14 +131,14 @@
       "other": "00:35:26",
       "startDate": "8/18/2026 09:15:29",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "08:23:40",
+      "duration": "08:28:50",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
@@ -153,14 +153,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 08:25:58",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "04:08:43",
+      "duration": "04:13:53",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
@@ -175,7 +175,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 08:11:39",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:09:58.089Z"
+      "lastUpdated": "2026-08-19T01:15:08.087Z"
     }
   ],
   "teamTotals": {
@@ -201,11 +201,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-18",
-    "backlogCstCount": "51",
+    "backlogCstCount": "53",
     "backlogPstCount": "0",
     "outboundCstCount": "51",
     "outboundPstCount": "9",
-    "capturedAt": "2026-08-19T01:01:48.398Z"
+    "capturedAt": "2026-08-19T01:11:48.163Z"
   },
-  "generatedAt": "2026-08-19T01:10:18.980Z"
+  "generatedAt": "2026-08-19T01:15:19.353Z"
 }
