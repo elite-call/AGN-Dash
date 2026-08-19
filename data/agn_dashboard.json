@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+13313073417",
       "status": "Accept Internal Calls",
-      "duration": "02:16:55",
+      "duration": "02:22:06",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "47",
-      "logOn": "07:15:12",
+      "logOn": "07:20:22",
       "notReady": "00:01:58",
       "avail": "03:29:08",
       "onIncCalls": "00:00:00",
@@ -131,7 +131,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 4,
-      "lastUpdated": "2026-08-19T00:19:51.086Z"
+      "lastUpdated": "2026-08-19T00:25:02.077Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -159,28 +159,28 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Accept Internal Calls",
-      "duration": "00:09:35",
+      "status": "Available",
+      "duration": "00:00:46",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
-      "outCalls": "94",
-      "logOn": "07:03:02",
+      "outCalls": "96",
+      "logOn": "07:08:12",
       "notReady": "00:08:08",
-      "avail": "04:27:54",
+      "avail": "04:38:45",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:45:02",
-      "wrapUp": "00:32:08",
+      "onOutCalls": "01:47:16",
+      "wrapUp": "00:33:03",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 9,
-      "lastUpdated": "2026-08-19T00:19:51.086Z"
+      "lastUpdated": "2026-08-19T00:25:02.077Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 50,
-    "totalOutCalls": 777,
+    "totalOutCalls": 779,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -201,11 +201,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-18",
-    "backlogCstCount": "27",
+    "backlogCstCount": "31",
     "backlogPstCount": "0",
     "outboundCstCount": "51",
     "outboundPstCount": "1",
-    "capturedAt": "2026-08-19T00:11:48.160Z"
+    "capturedAt": "2026-08-19T00:21:48.145Z"
   },
-  "generatedAt": "2026-08-19T00:20:17.946Z"
+  "generatedAt": "2026-08-19T00:25:16.216Z"
 }
