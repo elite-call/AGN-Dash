@@ -49,45 +49,45 @@
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "+13313073503",
-      "status": "Accept Internal Calls",
-      "duration": "00:03:31",
+      "status": "Available - Ringing",
+      "duration": "00:00:05",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "35",
-      "logOn": "02:12:57",
+      "outCalls": "36",
+      "logOn": "02:14:28",
       "notReady": "00:00:18",
-      "avail": "01:31:37",
+      "avail": "01:35:28",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:31:30",
-      "wrapUp": "00:02:49",
+      "onOutCalls": "00:32:29",
+      "wrapUp": "00:02:56",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/19/2026 12:24:49",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T21:44:25.924Z"
+      "lastUpdated": "2026-08-19T21:50:06.901Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:41",
+      "duration": "00:00:33",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "54",
-      "logOn": "03:49:24",
-      "notReady": "00:06:30",
-      "avail": "02:31:34",
+      "outCalls": "58",
+      "logOn": "03:54:34",
+      "notReady": "00:07:26",
+      "avail": "02:32:45",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:48:42",
-      "wrapUp": "00:18:22",
+      "onOutCalls": "00:50:34",
+      "wrapUp": "00:19:40",
       "breakTime": "00:00:01",
       "other": "00:00:00",
       "startDate": "8/19/2026 11:50:54",
       "leadCount": 3,
-      "lastUpdated": "2026-08-19T21:44:56.911Z"
+      "lastUpdated": "2026-08-19T21:50:06.901Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -160,12 +160,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Not Set - Dialout - Error",
-      "duration": "00:23:10",
+      "duration": "00:28:20",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "126",
-      "logOn": "07:40:32",
+      "logOn": "07:45:42",
       "notReady": "00:11:41",
       "avail": "03:54:16",
       "onIncCalls": "00:00:00",
@@ -175,7 +175,7 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 08:17:08",
       "leadCount": 6,
-      "lastUpdated": "2026-08-19T21:44:56.911Z"
+      "lastUpdated": "2026-08-19T21:50:06.901Z"
     },
     {
       "agent": "Shiza Zehra",
@@ -204,12 +204,12 @@
       "team": "Elite Agents",
       "phone": "+19482317295",
       "status": "Accept Internal Calls",
-      "duration": "00:05:33",
+      "duration": "00:10:43",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "42",
-      "logOn": "03:51:00",
+      "logOn": "03:56:10",
       "notReady": "00:02:01",
       "avail": "02:26:07",
       "onIncCalls": "00:00:00",
@@ -219,13 +219,13 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 11:45:32",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T21:44:56.911Z"
+      "lastUpdated": "2026-08-19T21:50:06.901Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 61,
-    "totalOutCalls": 759,
-    "totalQuotes": 406
+    "totalOutCalls": 764,
+    "totalQuotes": 408
   },
   "speedToLead": {
     "reportDate": "2026-08-17",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-19",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "8",
+    "outboundCstCount": "13",
     "outboundPstCount": "5",
-    "capturedAt": "2026-08-19T21:35:38.495Z"
+    "capturedAt": "2026-08-19T21:45:38.004Z"
   },
-  "generatedAt": "2026-08-19T21:45:17.417Z"
+  "generatedAt": "2026-08-19T21:50:17.499Z"
 }
