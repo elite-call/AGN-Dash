@@ -50,22 +50,22 @@
       "team": "Elite Agents",
       "phone": "+13313073503",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:38",
+      "duration": "00:00:23",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "25",
-      "logOn": "01:53:19",
+      "outCalls": "27",
+      "logOn": "01:58:29",
       "notReady": "00:00:10",
-      "avail": "01:19:59",
+      "avail": "01:24:01",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:26:58",
-      "wrapUp": "00:02:23",
+      "onOutCalls": "00:28:16",
+      "wrapUp": "00:02:28",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/19/2026 12:24:49",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T21:24:47.908Z"
+      "lastUpdated": "2026-08-19T21:29:57.896Z"
     },
     {
       "agent": "Erika Carranza",
@@ -115,23 +115,23 @@
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "+13313073511",
-      "status": "Available - Ringing",
-      "duration": "00:00:17",
+      "status": "Accept Internal Calls",
+      "duration": "00:04:06",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "111",
-      "logOn": "07:35:51",
+      "outCalls": "112",
+      "logOn": "07:41:01",
       "notReady": "00:08:02",
-      "avail": "03:44:02",
+      "avail": "03:44:27",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:13:54",
-      "wrapUp": "00:20:52",
+      "onOutCalls": "02:14:47",
+      "wrapUp": "00:20:54",
       "breakTime": "00:44:14",
       "other": "00:20:19",
       "startDate": "8/19/2026 08:48:56",
-      "leadCount": 7,
-      "lastUpdated": "2026-08-19T21:24:47.908Z"
+      "leadCount": 8,
+      "lastUpdated": "2026-08-19T21:29:57.896Z"
     },
     {
       "agent": "Hunter Polland",
@@ -160,12 +160,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Not Set - Dialout - Error",
-      "duration": "00:03:01",
+      "duration": "00:08:11",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "126",
-      "logOn": "07:20:23",
+      "logOn": "07:25:33",
       "notReady": "00:11:41",
       "avail": "03:54:16",
       "onIncCalls": "00:00:00",
@@ -175,7 +175,7 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 08:17:08",
       "leadCount": 6,
-      "lastUpdated": "2026-08-19T21:24:47.908Z"
+      "lastUpdated": "2026-08-19T21:29:57.896Z"
     },
     {
       "agent": "Shiza Zehra",
@@ -223,9 +223,9 @@
     }
   ],
   "teamTotals": {
-    "totalLeads": 58,
-    "totalOutCalls": 681,
-    "totalQuotes": 394
+    "totalLeads": 60,
+    "totalOutCalls": 684,
+    "totalQuotes": 397
   },
   "speedToLead": {
     "reportDate": "2026-08-17",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-19",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "8",
-    "outboundPstCount": "1",
-    "capturedAt": "2026-08-19T21:15:38.169Z"
+    "outboundCstCount": "6",
+    "outboundPstCount": "3",
+    "capturedAt": "2026-08-19T21:25:37.974Z"
   },
-  "generatedAt": "2026-08-19T21:25:15.636Z"
+  "generatedAt": "2026-08-19T21:30:16.179Z"
 }
