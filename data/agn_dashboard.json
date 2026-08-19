@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+13313073417",
       "status": "Accept Internal Calls",
-      "duration": "00:01:28",
+      "duration": "00:06:07",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
       "outCalls": "30",
-      "logOn": "01:36:57",
+      "logOn": "01:41:36",
       "notReady": "00:02:00",
       "avail": "01:02:36",
       "onIncCalls": "00:00:00",
@@ -21,7 +21,7 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 09:40:15",
       "leadCount": 1,
-      "lastUpdated": "2026-08-19T16:20:01.903Z"
+      "lastUpdated": "2026-08-19T16:24:40.908Z"
     },
     {
       "agent": "Bailee Raimer",
@@ -94,12 +94,12 @@
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:40",
+      "duration": "00:05:19",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "53",
-      "logOn": "02:55:17",
+      "logOn": "02:59:56",
       "notReady": "00:05:53",
       "avail": "00:15:15",
       "onIncCalls": "00:00:00",
@@ -109,41 +109,41 @@
       "other": "01:12:06",
       "startDate": "8/19/2026 08:10:10",
       "leadCount": 9,
-      "lastUpdated": "2026-08-19T16:20:01.903Z"
+      "lastUpdated": "2026-08-19T16:24:40.908Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "+13313073511",
-      "status": "Busy On Break",
-      "duration": "00:12:42",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:18",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "38",
-      "logOn": "02:31:05",
+      "logOn": "02:35:44",
       "notReady": "00:02:39",
-      "avail": "01:04:33",
+      "avail": "01:04:36",
       "onIncCalls": "00:00:00",
       "onOutCalls": "00:52:13",
       "wrapUp": "00:06:22",
-      "breakTime": "00:00:00",
+      "breakTime": "00:17:00",
       "other": "00:12:36",
       "startDate": "8/19/2026 08:48:56",
       "leadCount": 2,
-      "lastUpdated": "2026-08-19T16:20:01.903Z"
+      "lastUpdated": "2026-08-19T16:24:40.908Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "+12242972927",
       "status": "Accept Internal Calls",
-      "duration": "00:05:32",
+      "duration": "00:10:11",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
       "outCalls": "66",
-      "logOn": "02:55:39",
+      "logOn": "03:00:18",
       "notReady": "00:09:25",
       "avail": "01:04:37",
       "onIncCalls": "00:00:00",
@@ -153,19 +153,19 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 08:24:22",
       "leadCount": 3,
-      "lastUpdated": "2026-08-19T16:20:01.903Z"
+      "lastUpdated": "2026-08-19T16:24:40.908Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:04:02",
+      "duration": "00:08:40",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
       "outCalls": "71",
-      "logOn": "03:02:53",
+      "logOn": "03:07:32",
       "notReady": "00:09:43",
       "avail": "01:33:30",
       "onIncCalls": "00:00:00",
@@ -175,7 +175,7 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 08:17:08",
       "leadCount": 2,
-      "lastUpdated": "2026-08-19T16:20:01.903Z"
+      "lastUpdated": "2026-08-19T16:24:40.908Z"
     }
   ],
   "teamTotals": {
@@ -202,10 +202,10 @@
   "queueDepth": {
     "reportDate": "2026-08-19",
     "backlogCstCount": "25",
-    "backlogPstCount": "17",
+    "backlogPstCount": "16",
     "outboundCstCount": "3",
     "outboundPstCount": "0",
-    "capturedAt": "2026-08-19T16:11:37.977Z"
+    "capturedAt": "2026-08-19T16:21:37.968Z"
   },
-  "generatedAt": "2026-08-19T16:20:16.234Z"
+  "generatedAt": "2026-08-19T16:25:16.290Z"
 }
