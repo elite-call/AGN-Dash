@@ -27,23 +27,23 @@
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "+12242972528",
-      "status": "Available - Ringing",
-      "duration": "00:00:27",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:01:13",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "2",
-      "logOn": "00:02:54",
-      "notReady": "00:00:02",
-      "avail": "00:00:31",
+      "outCalls": "5",
+      "logOn": "00:08:04",
+      "notReady": "00:01:38",
+      "avail": "00:02:21",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:01:15",
-      "wrapUp": "00:00:39",
+      "onOutCalls": "00:01:54",
+      "wrapUp": "00:00:58",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/19/2026 08:07:01",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T13:09:56.895Z"
+      "lastUpdated": "2026-08-19T13:15:05.903Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -92,24 +92,24 @@
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
-      "phone": "",
-      "status": "Signed Out",
-      "duration": "07:48:43",
+      "phone": "+12242972518",
+      "status": "Busy Other - Offline - Tech Issues",
+      "duration": "00:00:36",
       "answered": "0",
       "missed": "0",
-      "transferred": "6",
-      "outCalls": "101",
-      "logOn": "04:24:51",
-      "notReady": "00:07:45",
-      "avail": "00:32:12",
+      "transferred": "0",
+      "outCalls": "4",
+      "logOn": "00:04:55",
+      "notReady": "00:01:44",
+      "avail": "00:01:12",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:05:52",
-      "wrapUp": "00:13:46",
+      "onOutCalls": "00:01:16",
+      "wrapUp": "00:00:07",
       "breakTime": "00:00:00",
-      "other": "01:25:16",
-      "startDate": "8/18/2026 08:00:55",
-      "leadCount": 0,
-      "lastUpdated": "2026-08-19T02:07:19.093Z"
+      "other": "00:00:00",
+      "startDate": "8/19/2026 08:10:10",
+      "leadCount": 1,
+      "lastUpdated": "2026-08-19T13:15:05.903Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -180,7 +180,7 @@
   ],
   "teamTotals": {
     "totalLeads": 1,
-    "totalOutCalls": 620,
+    "totalOutCalls": 526,
     "totalQuotes": 0
   },
   "speedToLead": {
@@ -201,11 +201,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-19",
-    "backlogCstCount": "146",
+    "backlogCstCount": "148",
     "backlogPstCount": "34",
-    "outboundCstCount": "49",
+    "outboundCstCount": "53",
     "outboundPstCount": "13",
-    "capturedAt": "2026-08-19T13:01:28.991Z"
+    "capturedAt": "2026-08-19T13:11:28.990Z"
   },
-  "generatedAt": "2026-08-19T13:10:16.019Z"
+  "generatedAt": "2026-08-19T13:15:17.434Z"
 }
