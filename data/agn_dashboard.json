@@ -115,23 +115,23 @@
       "agent": "Mackenzie Olson",
       "team": "Elite Agents",
       "phone": "+13313073417",
-      "status": "",
-      "duration": "",
-      "answered": "",
-      "missed": "",
-      "transferred": "",
-      "outCalls": "",
-      "logOn": "",
-      "notReady": "",
-      "avail": "",
-      "onIncCalls": "",
-      "onOutCalls": "",
-      "wrapUp": "",
-      "breakTime": "",
-      "other": "",
-      "startDate": "",
+      "status": "Accept Internal Calls",
+      "duration": "02:31:54",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "47",
+      "logOn": "07:30:11",
+      "notReady": "00:01:58",
+      "avail": "03:29:08",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "01:12:56",
+      "wrapUp": "00:04:55",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/18/2026 11:40:46",
       "leadCount": 4,
-      "lastUpdated": "2026-08-19T00:30:11.080Z"
+      "lastUpdated": "2026-08-19T00:34:50.093Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -180,7 +180,7 @@
   ],
   "teamTotals": {
     "totalLeads": 50,
-    "totalOutCalls": 636,
+    "totalOutCalls": 683,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -201,11 +201,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-18",
-    "backlogCstCount": "31",
+    "backlogCstCount": "34",
     "backlogPstCount": "0",
     "outboundCstCount": "51",
-    "outboundPstCount": "1",
-    "capturedAt": "2026-08-19T00:21:48.145Z"
+    "outboundPstCount": "4",
+    "capturedAt": "2026-08-19T00:31:48.179Z"
   },
-  "generatedAt": "2026-08-19T00:30:21.100Z"
+  "generatedAt": "2026-08-19T00:35:16.046Z"
 }
