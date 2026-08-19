@@ -6,7 +6,7 @@
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "00:24:58",
+      "duration": "00:30:08",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
@@ -21,14 +21,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     },
     {
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "04:54:28",
+      "duration": "04:59:38",
       "answered": "0",
       "missed": "0",
       "transferred": "12",
@@ -43,14 +43,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 08:03:08",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     },
     {
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "01:24:56",
+      "duration": "01:30:06",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
@@ -65,14 +65,14 @@
       "other": "00:00:02",
       "startDate": "8/18/2026 11:47:16",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "01:04:38",
+      "duration": "01:09:48",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
@@ -87,14 +87,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "07:16:10",
+      "duration": "07:21:20",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
@@ -109,14 +109,14 @@
       "other": "01:25:16",
       "startDate": "8/18/2026 08:00:55",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "03:40:56",
+      "duration": "03:46:06",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
@@ -131,14 +131,14 @@
       "other": "00:35:26",
       "startDate": "8/18/2026 09:15:29",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "08:48:28",
+      "duration": "08:53:38",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
@@ -153,14 +153,14 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 08:25:58",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "04:33:31",
+      "duration": "04:38:41",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
@@ -175,7 +175,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 08:11:39",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T01:34:46.091Z"
+      "lastUpdated": "2026-08-19T01:39:56.088Z"
     }
   ],
   "teamTotals": {
@@ -207,5 +207,5 @@
     "outboundPstCount": "13",
     "capturedAt": "2026-08-19T01:31:48.400Z"
   },
-  "generatedAt": "2026-08-19T01:35:17.612Z"
+  "generatedAt": "2026-08-19T01:40:17.111Z"
 }
