@@ -27,23 +27,23 @@
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "+12242972528",
-      "status": "Busy Dialing Out - Ringing Destination",
-      "duration": "00:00:15",
+      "status": "Available",
+      "duration": "00:00:02",
       "answered": "0",
       "missed": "0",
       "transferred": "7",
-      "outCalls": "179",
-      "logOn": "06:27:02",
+      "outCalls": "182",
+      "logOn": "06:32:12",
       "notReady": "00:17:37",
-      "avail": "02:18:36",
+      "avail": "02:19:16",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "03:04:32",
-      "wrapUp": "00:37:05",
+      "onOutCalls": "03:07:10",
+      "wrapUp": "00:37:37",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/19/2026 08:07:01",
       "leadCount": 7,
-      "lastUpdated": "2026-08-19T20:04:41.911Z"
+      "lastUpdated": "2026-08-19T20:09:51.901Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:03:56",
+      "duration": "00:09:06",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "37",
-      "logOn": "02:53:34",
+      "logOn": "02:58:44",
       "notReady": "00:04:17",
       "avail": "01:57:27",
       "onIncCalls": "00:00:00",
@@ -87,7 +87,7 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 11:50:54",
       "leadCount": 3,
-      "lastUpdated": "2026-08-19T20:04:41.911Z"
+      "lastUpdated": "2026-08-19T20:09:51.901Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -116,14 +116,14 @@
       "team": "Elite Agents",
       "phone": "+13313073511",
       "status": "Available",
-      "duration": "00:02:47",
+      "duration": "00:01:45",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "86",
-      "logOn": "06:15:45",
-      "notReady": "00:05:33",
-      "avail": "02:53:43",
+      "outCalls": "87",
+      "logOn": "06:20:55",
+      "notReady": "00:06:34",
+      "avail": "02:58:53",
       "onIncCalls": "00:00:00",
       "onOutCalls": "01:50:27",
       "wrapUp": "00:15:25",
@@ -131,7 +131,7 @@
       "other": "00:20:19",
       "startDate": "8/19/2026 08:48:56",
       "leadCount": 4,
-      "lastUpdated": "2026-08-19T20:04:41.911Z"
+      "lastUpdated": "2026-08-19T20:09:51.901Z"
     },
     {
       "agent": "Hunter Polland",
@@ -160,12 +160,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Accept Internal Calls",
-      "duration": "00:00:38",
+      "duration": "00:05:48",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "111",
-      "logOn": "06:25:34",
+      "logOn": "06:30:44",
       "notReady": "00:10:18",
       "avail": "03:20:32",
       "onIncCalls": "00:00:00",
@@ -175,7 +175,7 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 08:17:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-19T20:04:41.911Z"
+      "lastUpdated": "2026-08-19T20:09:51.901Z"
     },
     {
       "agent": "Shiza Zehra",
@@ -204,12 +204,12 @@
       "team": "Elite Agents",
       "phone": "+19482317295",
       "status": "Available",
-      "duration": "00:00:18",
+      "duration": "00:00:49",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "37",
-      "logOn": "03:19:09",
+      "logOn": "03:19:40",
       "notReady": "00:01:40",
       "avail": "02:14:26",
       "onIncCalls": "00:00:00",
@@ -219,13 +219,13 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 11:45:32",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T20:04:41.911Z"
+      "lastUpdated": "2026-08-19T20:05:12.903Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 50,
-    "totalOutCalls": 590,
-    "totalQuotes": 332
+    "totalOutCalls": 594,
+    "totalQuotes": 334
   },
   "speedToLead": {
     "reportDate": "2026-08-17",
@@ -249,7 +249,7 @@
     "backlogPstCount": "0",
     "outboundCstCount": "0",
     "outboundPstCount": "0",
-    "capturedAt": "2026-08-19T19:55:37.970Z"
+    "capturedAt": "2026-08-19T20:05:37.967Z"
   },
-  "generatedAt": "2026-08-19T20:05:16.814Z"
+  "generatedAt": "2026-08-19T20:10:16.253Z"
 }
