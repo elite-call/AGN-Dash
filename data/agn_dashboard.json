@@ -49,45 +49,45 @@
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "+13313073503",
-      "status": "Accept Internal Calls",
-      "duration": "00:02:08",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:12",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
-      "outCalls": "62",
-      "logOn": "03:28:05",
+      "outCalls": "63",
+      "logOn": "03:31:42",
       "notReady": "00:00:43",
-      "avail": "02:18:51",
+      "avail": "02:23:47",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:57:54",
-      "wrapUp": "00:05:18",
+      "onOutCalls": "00:58:26",
+      "wrapUp": "00:05:23",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/19/2026 12:24:49",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T23:35:00.632Z"
+      "lastUpdated": "2026-08-19T23:38:37.649Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Available - Ringing",
-      "duration": "00:00:21",
+      "status": "Busy Dialing Out - Typing",
+      "duration": "00:00:14",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "97",
-      "logOn": "05:39:27",
+      "outCalls": "98",
+      "logOn": "05:44:37",
       "notReady": "00:11:49",
-      "avail": "03:27:17",
+      "avail": "03:28:34",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:29:01",
-      "wrapUp": "00:27:24",
+      "onOutCalls": "01:32:58",
+      "wrapUp": "00:27:27",
       "breakTime": "00:00:01",
       "other": "00:00:00",
       "startDate": "8/19/2026 11:50:54",
       "leadCount": 7,
-      "lastUpdated": "2026-08-19T23:35:00.632Z"
+      "lastUpdated": "2026-08-19T23:40:11.653Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -224,8 +224,8 @@
   ],
   "teamTotals": {
     "totalLeads": 72,
-    "totalOutCalls": 859,
-    "totalQuotes": 482
+    "totalOutCalls": 861,
+    "totalQuotes": 485
   },
   "speedToLead": {
     "reportDate": "2026-08-17",
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-19",
-    "backlogCstCount": "0",
+    "backlogCstCount": "5",
     "backlogPstCount": "0",
-    "outboundCstCount": "15",
-    "outboundPstCount": "5",
-    "capturedAt": "2026-08-19T23:25:38.677Z"
+    "outboundCstCount": "16",
+    "outboundPstCount": "3",
+    "capturedAt": "2026-08-19T23:35:38.711Z"
   },
-  "generatedAt": "2026-08-19T23:35:15.598Z"
+  "generatedAt": "2026-08-19T23:40:24.233Z"
 }
