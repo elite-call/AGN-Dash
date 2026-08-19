@@ -50,12 +50,12 @@
       "team": "Elite Agents",
       "phone": "+13313073503",
       "status": "Accept Internal Calls",
-      "duration": "00:07:07",
+      "duration": "00:08:40",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "61",
-      "logOn": "03:20:59",
+      "logOn": "03:22:32",
       "notReady": "00:00:42",
       "avail": "02:09:51",
       "onIncCalls": "00:00:00",
@@ -65,29 +65,29 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 12:24:49",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T23:14:51.570Z"
+      "lastUpdated": "2026-08-19T23:16:25.558Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Accept Internal Calls",
-      "duration": "00:07:04",
+      "status": "Not Set - Dialout - Error",
+      "duration": "00:00:35",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "90",
-      "logOn": "05:19:18",
+      "outCalls": "92",
+      "logOn": "05:24:28",
       "notReady": "00:11:10",
-      "avail": "03:13:40",
+      "avail": "03:23:50",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:18:31",
-      "wrapUp": "00:25:17",
+      "onOutCalls": "01:20:00",
+      "wrapUp": "00:25:18",
       "breakTime": "00:00:01",
       "other": "00:00:00",
       "startDate": "8/19/2026 11:50:54",
       "leadCount": 5,
-      "lastUpdated": "2026-08-19T23:14:51.570Z"
+      "lastUpdated": "2026-08-19T23:20:01.560Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -204,12 +204,12 @@
       "team": "Elite Agents",
       "phone": "+19482317295",
       "status": "Accept Internal Calls",
-      "duration": "00:03:26",
+      "duration": "00:04:59",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "61",
-      "logOn": "04:51:42",
+      "logOn": "04:53:15",
       "notReady": "00:03:23",
       "avail": "02:59:17",
       "onIncCalls": "00:00:00",
@@ -219,13 +219,13 @@
       "other": "00:00:00",
       "startDate": "8/19/2026 11:45:32",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T23:14:51.570Z"
+      "lastUpdated": "2026-08-19T23:16:25.558Z"
     }
   ],
   "teamTotals": {
-    "totalLeads": 68,
-    "totalOutCalls": 851,
-    "totalQuotes": 476
+    "totalLeads": 70,
+    "totalOutCalls": 853,
+    "totalQuotes": 479
   },
   "speedToLead": {
     "reportDate": "2026-08-17",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-19",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "8",
-    "outboundPstCount": "3",
-    "capturedAt": "2026-08-19T23:05:38.590Z"
+    "outboundCstCount": "15",
+    "outboundPstCount": "5",
+    "capturedAt": "2026-08-19T23:15:38.713Z"
   },
-  "generatedAt": "2026-08-19T23:15:19.646Z"
+  "generatedAt": "2026-08-19T23:20:16.657Z"
 }
