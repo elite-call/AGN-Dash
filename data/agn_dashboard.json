@@ -200,12 +200,12 @@
     "processedAt": "2026-08-18T13:07:37.513Z"
   },
   "queueDepth": {
-    "reportDate": "2026-08-18",
-    "backlogCstCount": "75",
-    "backlogPstCount": "7",
-    "outboundCstCount": "51",
+    "reportDate": "2026-08-19",
+    "backlogCstCount": "137",
+    "backlogPstCount": "33",
+    "outboundCstCount": "48",
     "outboundPstCount": "13",
-    "capturedAt": "2026-08-19T02:01:48.178Z"
+    "capturedAt": "2026-08-19T12:51:28.329Z"
   },
-  "generatedAt": "2026-08-19T12:50:24.664Z"
+  "generatedAt": "2026-08-19T12:55:15.885Z"
 }
