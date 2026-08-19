@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+13313073417",
       "status": "Accept Internal Calls",
-      "duration": "02:12:16",
+      "duration": "02:16:55",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "47",
-      "logOn": "07:10:33",
+      "logOn": "07:15:12",
       "notReady": "00:01:58",
       "avail": "03:29:08",
       "onIncCalls": "00:00:00",
@@ -131,7 +131,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 4,
-      "lastUpdated": "2026-08-19T00:15:12.084Z"
+      "lastUpdated": "2026-08-19T00:19:51.086Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -160,12 +160,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:04:56",
+      "duration": "00:09:35",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
       "outCalls": "94",
-      "logOn": "06:58:23",
+      "logOn": "07:03:02",
       "notReady": "00:08:08",
       "avail": "04:27:54",
       "onIncCalls": "00:00:00",
@@ -175,7 +175,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:51:59",
       "leadCount": 9,
-      "lastUpdated": "2026-08-19T00:15:12.084Z"
+      "lastUpdated": "2026-08-19T00:19:51.086Z"
     }
   ],
   "teamTotals": {
@@ -207,5 +207,5 @@
     "outboundPstCount": "1",
     "capturedAt": "2026-08-19T00:11:48.160Z"
   },
-  "generatedAt": "2026-08-19T00:15:19.118Z"
+  "generatedAt": "2026-08-19T00:20:17.946Z"
 }
