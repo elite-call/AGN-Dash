@@ -116,12 +116,12 @@
       "team": "Elite Agents",
       "phone": "+13313073417",
       "status": "Accept Internal Calls",
-      "duration": "02:46:53",
+      "duration": "02:52:03",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "47",
-      "logOn": "07:45:10",
+      "logOn": "07:50:20",
       "notReady": "00:01:58",
       "avail": "03:29:08",
       "onIncCalls": "00:00:00",
@@ -131,7 +131,7 @@
       "other": "00:00:00",
       "startDate": "8/18/2026 11:40:46",
       "leadCount": 4,
-      "lastUpdated": "2026-08-19T00:49:49.085Z"
+      "lastUpdated": "2026-08-19T00:54:59.086Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -201,11 +201,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-18",
-    "backlogCstCount": "39",
+    "backlogCstCount": "42",
     "backlogPstCount": "0",
     "outboundCstCount": "51",
-    "outboundPstCount": "6",
-    "capturedAt": "2026-08-19T00:41:48.165Z"
+    "outboundPstCount": "9",
+    "capturedAt": "2026-08-19T00:51:48.163Z"
   },
-  "generatedAt": "2026-08-19T00:50:17.239Z"
+  "generatedAt": "2026-08-19T00:55:18.143Z"
 }
