@@ -6,22 +6,22 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:08",
+      "duration": "00:04:02",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "14",
-      "logOn": "00:32:29",
+      "outCalls": "15",
+      "logOn": "00:37:39",
       "notReady": "00:03:08",
-      "avail": "00:04:42",
+      "avail": "00:04:47",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:19:45",
-      "wrapUp": "00:04:46",
+      "onOutCalls": "00:20:24",
+      "wrapUp": "00:05:18",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/20/2026 08:02:30",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:35:00.905Z"
+      "lastUpdated": "2026-08-20T13:40:10.891Z"
     },
     {
       "agent": "Billy Kerth",
@@ -203,15 +203,15 @@
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
-      "status": "Accept Internal Calls",
-      "duration": "00:03:29",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:41",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "6",
-      "logOn": "00:18:47",
+      "logOn": "00:23:57",
       "notReady": "00:00:33",
-      "avail": "00:04:37",
+      "avail": "00:12:35",
       "onIncCalls": "00:00:00",
       "onOutCalls": "00:08:21",
       "wrapUp": "00:01:47",
@@ -219,13 +219,13 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:35:00.905Z"
+      "lastUpdated": "2026-08-20T13:40:10.891Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 576,
-    "totalQuotes": 9
+    "totalOutCalls": 577,
+    "totalQuotes": 12
   },
   "speedToLead": {
     "reportDate": "2026-08-19",
@@ -251,5 +251,5 @@
     "outboundPstCount": "1",
     "capturedAt": "2026-08-20T13:34:00.983Z"
   },
-  "generatedAt": "2026-08-20T13:35:15.948Z"
+  "generatedAt": "2026-08-20T13:40:17.984Z"
 }
