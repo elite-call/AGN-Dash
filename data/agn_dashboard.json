@@ -28,12 +28,12 @@
       "team": "Elite Agents",
       "phone": "+19482317295",
       "status": "Accept Internal Calls",
-      "duration": "00:03:03",
+      "duration": "00:07:42",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
       "outCalls": "16",
-      "logOn": "00:58:54",
+      "logOn": "01:03:33",
       "notReady": "00:01:37",
       "avail": "00:30:38",
       "onIncCalls": "00:00:00",
@@ -43,7 +43,7 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 16:21:11",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T22:20:05.912Z"
+      "lastUpdated": "2026-08-20T22:24:44.907Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:00:42",
+      "duration": "00:05:21",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "93",
-      "logOn": "06:07:27",
+      "logOn": "06:12:06",
       "notReady": "00:10:37",
       "avail": "03:52:32",
       "onIncCalls": "00:00:00",
@@ -87,43 +87,43 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 10:09:37",
       "leadCount": 10,
-      "lastUpdated": "2026-08-20T22:20:05.912Z"
+      "lastUpdated": "2026-08-20T22:24:44.907Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
-      "status": "Available",
-      "duration": "00:00:02",
+      "status": "Available - Ringing",
+      "duration": "00:00:26",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "101",
-      "logOn": "06:25:32",
-      "notReady": "00:05:56",
-      "avail": "02:03:40",
+      "outCalls": "102",
+      "logOn": "06:30:12",
+      "notReady": "00:05:58",
+      "avail": "02:04:55",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:47:43",
-      "wrapUp": "00:19:32",
+      "onOutCalls": "02:47:56",
+      "wrapUp": "00:20:51",
       "breakTime": "00:00:00",
-      "other": "01:02:14",
+      "other": "01:04:02",
       "startDate": "8/20/2026 10:29:47",
       "leadCount": 8,
-      "lastUpdated": "2026-08-20T22:20:05.912Z"
+      "lastUpdated": "2026-08-20T22:24:44.907Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "+13313073511",
-      "status": "Accept Internal Calls",
-      "duration": "00:02:34",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:01:16",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "111",
-      "logOn": "07:30:42",
+      "logOn": "07:35:21",
       "notReady": "00:07:08",
-      "avail": "04:25:23",
+      "avail": "04:31:20",
       "onIncCalls": "00:00:00",
       "onOutCalls": "01:44:40",
       "wrapUp": "00:17:20",
@@ -131,7 +131,7 @@
       "other": "00:23:29",
       "startDate": "8/20/2026 09:26:40",
       "leadCount": 6,
-      "lastUpdated": "2026-08-20T22:20:05.912Z"
+      "lastUpdated": "2026-08-20T22:24:44.907Z"
     },
     {
       "agent": "Hunter Polland",
@@ -204,12 +204,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy Dialing Out - Connected",
-      "duration": "01:17:10",
+      "duration": "01:21:49",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "112",
-      "logOn": "08:44:19",
+      "logOn": "08:48:58",
       "notReady": "00:10:59",
       "avail": "03:29:12",
       "onIncCalls": "00:00:00",
@@ -219,13 +219,13 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 5,
-      "lastUpdated": "2026-08-20T22:20:05.912Z"
+      "lastUpdated": "2026-08-20T22:24:44.907Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 51,
-    "totalOutCalls": 829,
-    "totalQuotes": 436
+    "totalOutCalls": 830,
+    "totalQuotes": 437
   },
   "speedToLead": {
     "reportDate": "2026-08-19",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-20",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "1",
-    "outboundPstCount": "0",
-    "capturedAt": "2026-08-20T22:14:46.970Z"
+    "outboundCstCount": "0",
+    "outboundPstCount": "1",
+    "capturedAt": "2026-08-20T22:24:46.956Z"
   },
-  "generatedAt": "2026-08-20T22:20:21.715Z"
+  "generatedAt": "2026-08-20T22:25:16.453Z"
 }
