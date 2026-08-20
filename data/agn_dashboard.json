@@ -5,23 +5,23 @@
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "+12242972528",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:04:22",
+      "status": "Busy Wrapping Up",
+      "duration": "00:00:07",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "1",
-      "logOn": "00:07:39",
-      "notReady": "00:00:04",
-      "avail": "00:00:32",
+      "outCalls": "4",
+      "logOn": "00:12:18",
+      "notReady": "00:01:05",
+      "avail": "00:01:09",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:02:10",
-      "wrapUp": "00:00:31",
+      "onOutCalls": "00:08:55",
+      "wrapUp": "00:01:02",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/20/2026 08:02:30",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:10:10.912Z"
+      "lastUpdated": "2026-08-20T13:14:49.909Z"
     },
     {
       "agent": "Billy Kerth",
@@ -224,7 +224,7 @@
   ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 683,
+    "totalOutCalls": 686,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-20",
-    "backlogCstCount": "137",
-    "backlogPstCount": "34",
+    "backlogCstCount": "126",
+    "backlogPstCount": "35",
     "outboundCstCount": "17",
     "outboundPstCount": "1",
-    "capturedAt": "2026-08-20T13:04:00.101Z"
+    "capturedAt": "2026-08-20T13:14:00.987Z"
   },
-  "generatedAt": "2026-08-20T13:10:28.429Z"
+  "generatedAt": "2026-08-20T13:15:15.788Z"
 }
