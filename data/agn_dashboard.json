@@ -27,23 +27,23 @@
       "agent": "Billy Kerth",
       "team": "Elite Agents",
       "phone": "+19482317295",
-      "status": "Accept Internal Calls",
-      "duration": "00:02:21",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:01:41",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
-      "outCalls": "18",
-      "logOn": "01:18:32",
+      "outCalls": "19",
+      "logOn": "01:23:42",
       "notReady": "00:01:37",
-      "avail": "00:48:20",
+      "avail": "00:52:08",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:21:03",
-      "wrapUp": "00:05:10",
+      "onOutCalls": "00:22:34",
+      "wrapUp": "00:05:41",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/20/2026 16:21:11",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T22:39:43.869Z"
+      "lastUpdated": "2026-08-20T22:44:53.857Z"
     },
     {
       "agent": "Chris Sweigert",
@@ -94,36 +94,36 @@
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:44",
+      "duration": "00:00:27",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
-      "outCalls": "114",
-      "logOn": "06:43:08",
-      "notReady": "00:06:55",
-      "avail": "02:09:19",
+      "outCalls": "119",
+      "logOn": "06:48:18",
+      "notReady": "00:06:59",
+      "avail": "02:11:01",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:51:33",
-      "wrapUp": "00:23:28",
+      "onOutCalls": "02:54:43",
+      "wrapUp": "00:23:59",
       "breakTime": "00:00:00",
       "other": "01:04:10",
       "startDate": "8/20/2026 10:29:47",
       "leadCount": 8,
-      "lastUpdated": "2026-08-20T22:39:43.869Z"
+      "lastUpdated": "2026-08-20T22:44:53.857Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "+13313073511",
-      "status": "Accept Internal Calls",
-      "duration": "00:06:13",
+      "status": "Available - Ringing",
+      "duration": "00:00:30",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
       "outCalls": "112",
-      "logOn": "07:50:20",
+      "logOn": "07:55:30",
       "notReady": "00:07:08",
-      "avail": "04:31:20",
+      "avail": "04:42:12",
       "onIncCalls": "00:00:00",
       "onOutCalls": "01:54:40",
       "wrapUp": "00:17:23",
@@ -131,7 +131,7 @@
       "other": "00:23:29",
       "startDate": "8/20/2026 09:26:40",
       "leadCount": 6,
-      "lastUpdated": "2026-08-20T22:39:43.869Z"
+      "lastUpdated": "2026-08-20T22:44:53.857Z"
     },
     {
       "agent": "Hunter Polland",
@@ -204,12 +204,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy Dialing Out - Connected",
-      "duration": "01:36:48",
+      "duration": "01:41:58",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "112",
-      "logOn": "09:03:57",
+      "logOn": "09:09:07",
       "notReady": "00:10:59",
       "avail": "03:29:12",
       "onIncCalls": "00:00:00",
@@ -219,13 +219,13 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 5,
-      "lastUpdated": "2026-08-20T22:39:43.869Z"
+      "lastUpdated": "2026-08-20T22:44:53.857Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 51,
-    "totalOutCalls": 845,
-    "totalQuotes": 445
+    "totalOutCalls": 851,
+    "totalQuotes": 450
   },
   "speedToLead": {
     "reportDate": "2026-08-19",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-20",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "5",
-    "outboundPstCount": "3",
-    "capturedAt": "2026-08-20T22:34:47.194Z"
+    "outboundCstCount": "3",
+    "outboundPstCount": "1",
+    "capturedAt": "2026-08-20T22:44:46.932Z"
   },
-  "generatedAt": "2026-08-20T22:40:18.439Z"
+  "generatedAt": "2026-08-20T22:45:19.441Z"
 }
