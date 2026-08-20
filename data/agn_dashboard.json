@@ -49,45 +49,45 @@
       "agent": "Chris Sweigert",
       "team": "Elite Agents",
       "phone": "+13313073503",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:12",
+      "status": "Available",
+      "duration": "00:01:26",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
-      "outCalls": "63",
-      "logOn": "03:31:42",
-      "notReady": "00:00:43",
-      "avail": "02:23:47",
+      "outCalls": "66",
+      "logOn": "03:36:36",
+      "notReady": "00:00:45",
+      "avail": "02:25:37",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:58:26",
-      "wrapUp": "00:05:23",
+      "onOutCalls": "01:00:06",
+      "wrapUp": "00:05:31",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/19/2026 12:24:49",
       "leadCount": 0,
-      "lastUpdated": "2026-08-19T23:38:37.649Z"
+      "lastUpdated": "2026-08-20T00:04:58.693Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Busy Wrapping Up",
-      "duration": "00:00:14",
+      "status": "Accept Internal Calls",
+      "duration": "00:01:11",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "104",
-      "logOn": "06:04:15",
+      "outCalls": "106",
+      "logOn": "06:09:25",
       "notReady": "00:11:49",
-      "avail": "03:37:31",
+      "avail": "03:37:58",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:41:08",
-      "wrapUp": "00:29:07",
+      "onOutCalls": "01:44:15",
+      "wrapUp": "00:29:46",
       "breakTime": "00:00:01",
       "other": "00:00:00",
       "startDate": "8/19/2026 11:50:54",
       "leadCount": 8,
-      "lastUpdated": "2026-08-19T23:59:48.694Z"
+      "lastUpdated": "2026-08-20T00:04:58.693Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -224,8 +224,8 @@
   ],
   "teamTotals": {
     "totalLeads": 73,
-    "totalOutCalls": 867,
-    "totalQuotes": 489
+    "totalOutCalls": 872,
+    "totalQuotes": 493
   },
   "speedToLead": {
     "reportDate": "2026-08-17",
@@ -251,5 +251,5 @@
     "outboundPstCount": "4",
     "capturedAt": "2026-08-19T23:55:38.744Z"
   },
-  "generatedAt": "2026-08-20T00:00:29.305Z"
+  "generatedAt": "2026-08-20T00:05:18.226Z"
 }
