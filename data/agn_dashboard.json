@@ -5,23 +5,23 @@
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "+12242972528",
-      "status": "Busy Wrapping Up",
-      "duration": "00:00:07",
+      "status": "Not Set - Dialout - Error",
+      "duration": "00:00:59",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "4",
-      "logOn": "00:12:18",
+      "outCalls": "7",
+      "logOn": "00:17:28",
       "notReady": "00:01:05",
-      "avail": "00:01:09",
+      "avail": "00:02:33",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:08:55",
-      "wrapUp": "00:01:02",
+      "onOutCalls": "00:10:16",
+      "wrapUp": "00:02:35",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/20/2026 08:02:30",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:14:49.909Z"
+      "lastUpdated": "2026-08-20T13:19:59.915Z"
     },
     {
       "agent": "Billy Kerth",
@@ -202,29 +202,29 @@
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
-      "phone": "",
-      "status": "Signed Out",
-      "duration": "03:47:34",
+      "phone": "+12242972878",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:36",
       "answered": "0",
       "missed": "0",
-      "transferred": "3",
-      "outCalls": "126",
-      "logOn": "08:58:20",
-      "notReady": "00:11:41",
-      "avail": "03:54:16",
+      "transferred": "0",
+      "outCalls": "2",
+      "logOn": "00:03:47",
+      "notReady": "00:00:33",
+      "avail": "00:01:24",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:14:13",
-      "wrapUp": "00:39:22",
+      "onOutCalls": "00:00:47",
+      "wrapUp": "00:00:26",
       "breakTime": "00:00:00",
       "other": "00:00:00",
-      "startDate": "8/19/2026 08:17:08",
+      "startDate": "8/20/2026 08:16:12",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T02:50:19.782Z"
+      "lastUpdated": "2026-08-20T13:19:59.915Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 686,
+    "totalOutCalls": 565,
     "totalQuotes": 1
   },
   "speedToLead": {
@@ -251,5 +251,5 @@
     "outboundPstCount": "1",
     "capturedAt": "2026-08-20T13:14:00.987Z"
   },
-  "generatedAt": "2026-08-20T13:15:15.788Z"
+  "generatedAt": "2026-08-20T13:20:17.430Z"
 }
