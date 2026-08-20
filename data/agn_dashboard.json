@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972528",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:04:02",
+      "duration": "00:08:41",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "15",
-      "logOn": "00:37:39",
+      "logOn": "00:42:18",
       "notReady": "00:03:08",
       "avail": "00:04:47",
       "onIncCalls": "00:00:00",
@@ -21,7 +21,7 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 08:02:30",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:40:10.891Z"
+      "lastUpdated": "2026-08-20T13:44:49.909Z"
     },
     {
       "agent": "Billy Kerth",
@@ -204,28 +204,28 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:41",
+      "duration": "00:04:04",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "6",
-      "logOn": "00:23:57",
+      "outCalls": "7",
+      "logOn": "00:28:37",
       "notReady": "00:00:33",
-      "avail": "00:12:35",
+      "avail": "00:12:42",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:08:21",
-      "wrapUp": "00:01:47",
+      "onOutCalls": "00:09:19",
+      "wrapUp": "00:01:58",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:40:10.891Z"
+      "lastUpdated": "2026-08-20T13:44:49.909Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 577,
-    "totalQuotes": 12
+    "totalOutCalls": 578,
+    "totalQuotes": 13
   },
   "speedToLead": {
     "reportDate": "2026-08-19",
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-20",
-    "backlogCstCount": "129",
-    "backlogPstCount": "37",
+    "backlogCstCount": "130",
+    "backlogPstCount": "39",
     "outboundCstCount": "8",
     "outboundPstCount": "1",
-    "capturedAt": "2026-08-20T13:34:00.983Z"
+    "capturedAt": "2026-08-20T13:44:00.994Z"
   },
-  "generatedAt": "2026-08-20T13:40:17.984Z"
+  "generatedAt": "2026-08-20T13:45:17.922Z"
 }
