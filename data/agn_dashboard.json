@@ -71,23 +71,23 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:01:10",
+      "status": "Busy Wrapping Up",
+      "duration": "00:00:14",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "100",
-      "logOn": "05:59:36",
+      "outCalls": "104",
+      "logOn": "06:04:15",
       "notReady": "00:11:49",
-      "avail": "03:36:37",
+      "avail": "03:37:31",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:37:49",
-      "wrapUp": "00:27:44",
+      "onOutCalls": "01:41:08",
+      "wrapUp": "00:29:07",
       "breakTime": "00:00:01",
       "other": "00:00:00",
       "startDate": "8/19/2026 11:50:54",
       "leadCount": 8,
-      "lastUpdated": "2026-08-19T23:55:09.672Z"
+      "lastUpdated": "2026-08-19T23:59:48.694Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -224,8 +224,8 @@
   ],
   "teamTotals": {
     "totalLeads": 73,
-    "totalOutCalls": 863,
-    "totalQuotes": 487
+    "totalOutCalls": 867,
+    "totalQuotes": 489
   },
   "speedToLead": {
     "reportDate": "2026-08-17",
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-19",
-    "backlogCstCount": "12",
+    "backlogCstCount": "19",
     "backlogPstCount": "0",
     "outboundCstCount": "16",
     "outboundPstCount": "4",
-    "capturedAt": "2026-08-19T23:45:38.921Z"
+    "capturedAt": "2026-08-19T23:55:38.744Z"
   },
-  "generatedAt": "2026-08-19T23:55:17.904Z"
+  "generatedAt": "2026-08-20T00:00:29.305Z"
 }
