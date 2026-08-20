@@ -5,23 +5,23 @@
       "agent": "Bailee Raimer",
       "team": "Elite Agents",
       "phone": "+12242972528",
-      "status": "Not Set - Dialout - Error",
-      "duration": "00:00:59",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:01:38",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "7",
-      "logOn": "00:17:28",
-      "notReady": "00:01:05",
-      "avail": "00:02:33",
+      "outCalls": "9",
+      "logOn": "00:22:38",
+      "notReady": "00:02:07",
+      "avail": "00:02:53",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:10:16",
-      "wrapUp": "00:02:35",
+      "onOutCalls": "00:13:19",
+      "wrapUp": "00:02:41",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/20/2026 08:02:30",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:19:59.915Z"
+      "lastUpdated": "2026-08-20T13:25:09.914Z"
     },
     {
       "agent": "Billy Kerth",
@@ -203,29 +203,29 @@
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:36",
+      "status": "Busy Wrapping Up",
+      "duration": "00:00:13",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "2",
-      "logOn": "00:03:47",
+      "outCalls": "5",
+      "logOn": "00:08:56",
       "notReady": "00:00:33",
-      "avail": "00:01:24",
+      "avail": "00:04:31",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "00:00:47",
-      "wrapUp": "00:00:26",
+      "onOutCalls": "00:02:18",
+      "wrapUp": "00:01:21",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 0,
-      "lastUpdated": "2026-08-20T13:19:59.915Z"
+      "lastUpdated": "2026-08-20T13:25:09.914Z"
     }
   ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 565,
-    "totalQuotes": 1
+    "totalOutCalls": 570,
+    "totalQuotes": 3
   },
   "speedToLead": {
     "reportDate": "2026-08-19",
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-20",
-    "backlogCstCount": "126",
-    "backlogPstCount": "35",
-    "outboundCstCount": "17",
+    "backlogCstCount": "128",
+    "backlogPstCount": "36",
+    "outboundCstCount": "11",
     "outboundPstCount": "1",
-    "capturedAt": "2026-08-20T13:14:00.987Z"
+    "capturedAt": "2026-08-20T13:24:00.985Z"
   },
-  "generatedAt": "2026-08-20T13:20:17.430Z"
+  "generatedAt": "2026-08-20T13:25:15.940Z"
 }
