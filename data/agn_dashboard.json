@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy Wrapping Up",
-      "duration": "00:02:57",
+      "duration": "00:08:07",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "117",
-      "logOn": "08:01:24",
+      "logOn": "08:06:34",
       "notReady": "00:14:07",
       "avail": "05:09:14",
       "onIncCalls": "00:00:00",
@@ -87,19 +87,19 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 10:09:37",
       "leadCount": 11,
-      "lastUpdated": "2026-08-21T00:34:56.774Z"
+      "lastUpdated": "2026-08-21T00:40:06.779Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:24:46",
+      "duration": "00:29:56",
       "answered": "0",
       "missed": "0",
       "transferred": "7",
       "outCalls": "146",
-      "logOn": "08:38:21",
+      "logOn": "08:43:31",
       "notReady": "00:10:56",
       "avail": "02:38:53",
       "onIncCalls": "00:00:00",
@@ -109,7 +109,7 @@
       "other": "01:10:36",
       "startDate": "8/20/2026 10:29:47",
       "leadCount": 10,
-      "lastUpdated": "2026-08-21T00:34:56.774Z"
+      "lastUpdated": "2026-08-21T00:40:06.779Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -204,12 +204,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy Dialing Out - Connected",
-      "duration": "03:32:01",
+      "duration": "03:37:11",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "112",
-      "logOn": "10:59:10",
+      "logOn": "11:04:20",
       "notReady": "00:10:59",
       "avail": "03:29:12",
       "onIncCalls": "00:00:00",
@@ -219,7 +219,7 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 5,
-      "lastUpdated": "2026-08-21T00:34:56.774Z"
+      "lastUpdated": "2026-08-21T00:40:06.779Z"
     }
   ],
   "teamTotals": {
@@ -251,5 +251,5 @@
     "outboundPstCount": "0",
     "capturedAt": "2026-08-21T00:34:47.110Z"
   },
-  "generatedAt": "2026-08-21T00:35:17.019Z"
+  "generatedAt": "2026-08-21T00:40:31.972Z"
 }
