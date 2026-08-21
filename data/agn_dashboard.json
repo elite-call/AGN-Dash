@@ -6,12 +6,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy Wrapping Up",
-      "duration": "01:47:50",
+      "duration": "01:53:00",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "117",
-      "logOn": "09:46:17",
+      "logOn": "09:51:27",
       "notReady": "00:14:07",
       "avail": "05:09:14",
       "onIncCalls": "00:00:00",
@@ -21,19 +21,19 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 10:09:37",
       "leadCount": 0,
-      "lastUpdated": "2026-08-21T02:19:49.763Z"
+      "lastUpdated": "2026-08-21T02:24:59.768Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "02:09:39",
+      "duration": "02:14:49",
       "answered": "0",
       "missed": "0",
       "transferred": "7",
       "outCalls": "146",
-      "logOn": "10:23:14",
+      "logOn": "10:28:24",
       "notReady": "00:10:56",
       "avail": "02:38:53",
       "onIncCalls": "00:00:00",
@@ -43,19 +43,19 @@
       "other": "01:10:36",
       "startDate": "8/20/2026 10:29:47",
       "leadCount": 0,
-      "lastUpdated": "2026-08-21T02:19:49.763Z"
+      "lastUpdated": "2026-08-21T02:24:59.768Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy Dialing Out - Connected",
-      "duration": "05:16:55",
+      "duration": "05:22:05",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "112",
-      "logOn": "12:44:03",
+      "logOn": "12:49:13",
       "notReady": "00:10:59",
       "avail": "03:29:12",
       "onIncCalls": "00:00:00",
@@ -65,7 +65,7 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 0,
-      "lastUpdated": "2026-08-21T02:19:49.763Z"
+      "lastUpdated": "2026-08-21T02:24:59.768Z"
     }
   ],
   "teamTotals": {
@@ -91,11 +91,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-20",
-    "backlogCstCount": "84",
-    "backlogPstCount": "8",
+    "backlogCstCount": "85",
+    "backlogPstCount": "9",
     "outboundCstCount": "2",
     "outboundPstCount": "13",
-    "capturedAt": "2026-08-21T02:14:46.854Z"
+    "capturedAt": "2026-08-21T02:24:46.827Z"
   },
-  "generatedAt": "2026-08-21T02:20:24.424Z"
+  "generatedAt": "2026-08-21T02:25:17.864Z"
 }
