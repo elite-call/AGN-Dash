@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Busy Wrapping Up",
-      "duration": "00:27:45",
+      "duration": "00:32:55",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "117",
-      "logOn": "08:26:12",
+      "logOn": "08:31:22",
       "notReady": "00:14:07",
       "avail": "05:09:14",
       "onIncCalls": "00:00:00",
@@ -87,19 +87,19 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 10:09:37",
       "leadCount": 11,
-      "lastUpdated": "2026-08-21T00:59:44.785Z"
+      "lastUpdated": "2026-08-21T01:04:54.763Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "+12242972518",
       "status": "Busy Other - Offline - Tech Issues",
-      "duration": "00:49:34",
+      "duration": "00:54:44",
       "answered": "0",
       "missed": "0",
       "transferred": "7",
       "outCalls": "146",
-      "logOn": "09:03:09",
+      "logOn": "09:08:19",
       "notReady": "00:10:56",
       "avail": "02:38:53",
       "onIncCalls": "00:00:00",
@@ -109,7 +109,7 @@
       "other": "01:10:36",
       "startDate": "8/20/2026 10:29:47",
       "leadCount": 10,
-      "lastUpdated": "2026-08-21T00:59:44.785Z"
+      "lastUpdated": "2026-08-21T01:04:54.763Z"
     },
     {
       "agent": "Helen Flaherty",
@@ -204,12 +204,12 @@
       "team": "Elite Agents",
       "phone": "+12242972878",
       "status": "Busy Dialing Out - Connected",
-      "duration": "03:56:49",
+      "duration": "04:02:00",
       "answered": "0",
       "missed": "0",
       "transferred": "6",
       "outCalls": "112",
-      "logOn": "11:23:58",
+      "logOn": "11:29:08",
       "notReady": "00:10:59",
       "avail": "03:29:12",
       "onIncCalls": "00:00:00",
@@ -219,7 +219,7 @@
       "other": "00:00:00",
       "startDate": "8/20/2026 08:16:12",
       "leadCount": 5,
-      "lastUpdated": "2026-08-21T00:59:44.785Z"
+      "lastUpdated": "2026-08-21T01:04:54.763Z"
     }
   ],
   "teamTotals": {
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-20",
-    "backlogCstCount": "52",
+    "backlogCstCount": "59",
     "backlogPstCount": "0",
     "outboundCstCount": "2",
-    "outboundPstCount": "7",
-    "capturedAt": "2026-08-21T00:54:46.841Z"
+    "outboundPstCount": "9",
+    "capturedAt": "2026-08-21T01:04:46.838Z"
   },
-  "generatedAt": "2026-08-21T01:00:18.232Z"
+  "generatedAt": "2026-08-21T01:05:16.052Z"
 }
