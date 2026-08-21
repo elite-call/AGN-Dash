@@ -74,20 +74,20 @@
     "totalQuotes": 493
   },
   "speedToLead": {
-    "reportDate": "2026-08-19",
-    "outboundOnlyAvgSeconds": "327",
-    "outboundOnlyCount": "440",
-    "backlogCstAvgSeconds": "13628",
-    "backlogCstCount": "63",
-    "outboundCstAvgSeconds": "327",
-    "outboundCstCount": "332",
-    "backlogPstAvgSeconds": "14884",
-    "backlogPstCount": "14",
-    "outboundPstAvgSeconds": "327",
-    "outboundPstCount": "108",
-    "overallAvgSeconds": "2342",
-    "overallCount": "517",
-    "processedAt": "2026-08-20T12:26:15.888Z"
+    "reportDate": "2026-08-20",
+    "outboundOnlyAvgSeconds": "138",
+    "outboundOnlyCount": "443",
+    "backlogCstAvgSeconds": "13485",
+    "backlogCstCount": "35",
+    "outboundCstAvgSeconds": "149",
+    "outboundCstCount": "344",
+    "backlogPstAvgSeconds": "11594",
+    "backlogPstCount": "25",
+    "outboundPstAvgSeconds": "100",
+    "outboundPstCount": "99",
+    "overallAvgSeconds": "1636",
+    "overallCount": "503",
+    "processedAt": "2026-08-21T12:26:14.867Z"
   },
   "queueDepth": {
     "reportDate": "2026-08-20",
@@ -97,5 +97,5 @@
     "outboundPstCount": "13",
     "capturedAt": "2026-08-21T02:44:46.825Z"
   },
-  "generatedAt": "2026-08-21T12:25:19.815Z"
+  "generatedAt": "2026-08-21T12:30:17.424Z"
 }
