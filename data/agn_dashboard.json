@@ -4,7 +4,7 @@
   "teamTotals": {
     "totalLeads": 0,
     "totalOutCalls": 0,
-    "totalQuotes": 363
+    "totalQuotes": 0
   },
   "speedToLead": {
     "reportDate": "2026-08-23",
@@ -23,12 +23,12 @@
     "processedAt": "2026-08-24T12:26:14.744Z"
   },
   "queueDepth": {
-    "reportDate": "2026-08-20",
-    "backlogCstCount": "89",
-    "backlogPstCount": "13",
-    "outboundCstCount": "2",
-    "outboundPstCount": "13",
-    "capturedAt": "2026-08-21T02:44:46.825Z"
+    "reportDate": "2026-08-24",
+    "backlogCstCount": "79",
+    "backlogPstCount": "14",
+    "outboundCstCount": "18",
+    "outboundPstCount": "6",
+    "capturedAt": "2026-08-24T12:58:10.993Z"
   },
-  "generatedAt": "2026-08-24T12:55:18.736Z"
+  "generatedAt": "2026-08-24T13:00:16.080Z"
 }
