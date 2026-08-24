@@ -1,9 +1,54 @@
 {
   "ok": true,
-  "agents": [],
+  "agents": [
+    {
+      "agent": "Gina Hamilton",
+      "team": "Elite Agents",
+      "phone": "+12242972518",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:02:25",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "1",
+      "logOn": "00:03:52",
+      "notReady": "00:00:36",
+      "avail": "00:00:51",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:00:00",
+      "wrapUp": "00:00:00",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/24/2026 08:01:01",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-24T13:04:54.892Z"
+    },
+    {
+      "agent": "Bailee Raimer",
+      "team": "Elite Agents",
+      "phone": "+12242972528",
+      "status": "Busy Wrapping Up",
+      "duration": "00:00:05",
+      "answered": "0",
+      "missed": "0",
+      "transferred": "0",
+      "outCalls": "1",
+      "logOn": "00:01:29",
+      "notReady": "00:00:25",
+      "avail": "00:00:19",
+      "onIncCalls": "00:00:00",
+      "onOutCalls": "00:00:40",
+      "wrapUp": "00:00:00",
+      "breakTime": "00:00:00",
+      "other": "00:00:00",
+      "startDate": "8/24/2026 08:03:24",
+      "leadCount": 0,
+      "lastUpdated": "2026-08-24T13:04:54.892Z"
+    }
+  ],
   "teamTotals": {
     "totalLeads": 0,
-    "totalOutCalls": 0,
+    "totalOutCalls": 2,
     "totalQuotes": 0
   },
   "speedToLead": {
@@ -30,5 +75,5 @@
     "outboundPstCount": "6",
     "capturedAt": "2026-08-24T12:58:10.993Z"
   },
-  "generatedAt": "2026-08-24T13:00:16.080Z"
+  "generatedAt": "2026-08-24T13:05:17.152Z"
 }
