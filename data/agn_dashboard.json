@@ -71,23 +71,23 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:01:03",
+      "status": "Accept Internal Calls",
+      "duration": "00:03:49",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
-      "outCalls": "91",
-      "logOn": "06:08:59",
+      "outCalls": "92",
+      "logOn": "06:14:09",
       "notReady": "00:08:21",
-      "avail": "03:51:33",
+      "avail": "03:51:44",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:25:45",
-      "wrapUp": "00:31:08",
+      "onOutCalls": "01:27:25",
+      "wrapUp": "00:31:42",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-25T22:54:42.409Z"
+      "lastUpdated": "2026-08-25T22:59:52.442Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -182,12 +182,12 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Accept Internal Calls",
-      "duration": "00:02:24",
+      "duration": "00:07:34",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "92",
-      "logOn": "05:00:26",
+      "logOn": "05:05:36",
       "notReady": "00:03:23",
       "avail": "01:17:59",
       "onIncCalls": "00:00:00",
@@ -197,7 +197,7 @@
       "other": "00:10:35",
       "startDate": "8/25/2026 11:37:18",
       "leadCount": 13,
-      "lastUpdated": "2026-08-25T22:54:42.409Z"
+      "lastUpdated": "2026-08-25T22:59:52.442Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -224,8 +224,8 @@
   ],
   "teamTotals": {
     "totalLeads": 61,
-    "totalOutCalls": 1057,
-    "totalQuotes": 490
+    "totalOutCalls": 1058,
+    "totalQuotes": 493
   },
   "speedToLead": {
     "reportDate": "2026-08-24",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-25",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "20",
+    "outboundCstCount": "21",
     "outboundPstCount": "16",
-    "capturedAt": "2026-08-25T22:47:18.440Z"
+    "capturedAt": "2026-08-25T22:57:18.494Z"
   },
-  "generatedAt": "2026-08-25T22:55:19.248Z"
+  "generatedAt": "2026-08-25T23:00:15.713Z"
 }
