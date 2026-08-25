@@ -71,23 +71,23 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Accept Internal Calls",
-      "duration": "00:03:53",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:10",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
-      "outCalls": "101",
-      "logOn": "06:59:11",
-      "notReady": "00:09:23",
-      "avail": "04:24:40",
+      "outCalls": "103",
+      "logOn": "07:04:21",
+      "notReady": "00:09:25",
+      "avail": "04:32:21",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:35:08",
-      "wrapUp": "00:34:59",
+      "onOutCalls": "01:35:46",
+      "wrapUp": "00:35:31",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-25T23:44:54.579Z"
+      "lastUpdated": "2026-08-25T23:50:04.590Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -182,12 +182,12 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:02:02",
+      "duration": "00:07:12",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "101",
-      "logOn": "05:50:38",
+      "logOn": "05:55:48",
       "notReady": "00:04:17",
       "avail": "01:45:54",
       "onIncCalls": "00:00:00",
@@ -197,7 +197,7 @@
       "other": "00:11:13",
       "startDate": "8/25/2026 11:37:18",
       "leadCount": 13,
-      "lastUpdated": "2026-08-25T23:44:54.579Z"
+      "lastUpdated": "2026-08-25T23:50:04.590Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -224,8 +224,8 @@
   ],
   "teamTotals": {
     "totalLeads": 61,
-    "totalOutCalls": 1076,
-    "totalQuotes": 511
+    "totalOutCalls": 1078,
+    "totalQuotes": 512
   },
   "speedToLead": {
     "reportDate": "2026-08-24",
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-25",
-    "backlogCstCount": "4",
+    "backlogCstCount": "10",
     "backlogPstCount": "0",
     "outboundCstCount": "43",
-    "outboundPstCount": "17",
-    "capturedAt": "2026-08-25T23:37:18.922Z"
+    "outboundPstCount": "13",
+    "capturedAt": "2026-08-25T23:47:18.646Z"
   },
-  "generatedAt": "2026-08-25T23:45:16.341Z"
+  "generatedAt": "2026-08-25T23:50:17.190Z"
 }
