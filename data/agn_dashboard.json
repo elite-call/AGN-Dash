@@ -72,22 +72,22 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:01:11",
+      "duration": "00:00:03",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
-      "outCalls": "93",
-      "logOn": "06:29:08",
+      "outCalls": "96",
+      "logOn": "06:34:18",
       "notReady": "00:08:21",
-      "avail": "04:08:31",
+      "avail": "04:11:44",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:28:06",
-      "wrapUp": "00:31:51",
+      "onOutCalls": "01:29:40",
+      "wrapUp": "00:33:22",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-25T23:14:51.503Z"
+      "lastUpdated": "2026-08-25T23:20:02.515Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -181,23 +181,23 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy Dialing Out - Connected",
-      "duration": "00:06:35",
+      "status": "Accept Internal Calls",
+      "duration": "00:00:34",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "92",
-      "logOn": "05:20:35",
+      "outCalls": "93",
+      "logOn": "05:25:45",
       "notReady": "00:03:23",
       "avail": "01:33:38",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:43:11",
-      "wrapUp": "00:30:44",
+      "onOutCalls": "02:53:44",
+      "wrapUp": "00:30:45",
       "breakTime": "00:00:00",
-      "other": "00:10:35",
+      "other": "00:11:13",
       "startDate": "8/25/2026 11:37:18",
       "leadCount": 13,
-      "lastUpdated": "2026-08-25T23:14:51.503Z"
+      "lastUpdated": "2026-08-25T23:20:02.515Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -224,8 +224,8 @@
   ],
   "teamTotals": {
     "totalLeads": 61,
-    "totalOutCalls": 1059,
-    "totalQuotes": 494
+    "totalOutCalls": 1063,
+    "totalQuotes": 496
   },
   "speedToLead": {
     "reportDate": "2026-08-24",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-25",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "29",
-    "outboundPstCount": "17",
-    "capturedAt": "2026-08-25T23:07:18.541Z"
+    "outboundCstCount": "34",
+    "outboundPstCount": "20",
+    "capturedAt": "2026-08-25T23:17:18.571Z"
   },
-  "generatedAt": "2026-08-25T23:15:17.358Z"
+  "generatedAt": "2026-08-25T23:20:17.037Z"
 }
