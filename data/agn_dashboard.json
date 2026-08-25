@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:03:34",
+      "duration": "00:08:45",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "73",
-      "logOn": "05:39:01",
+      "logOn": "05:44:11",
       "notReady": "00:06:29",
       "avail": "03:31:30",
       "onIncCalls": "00:00:00",
@@ -87,7 +87,7 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-25T22:24:44.198Z"
+      "lastUpdated": "2026-08-25T22:29:54.239Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -181,23 +181,23 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:02:25",
+      "status": "Accept Internal Calls",
+      "duration": "00:02:06",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "86",
-      "logOn": "04:30:28",
+      "outCalls": "87",
+      "logOn": "04:35:38",
       "notReady": "00:02:18",
       "avail": "01:11:57",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:24:37",
-      "wrapUp": "00:29:33",
+      "onOutCalls": "02:29:54",
+      "wrapUp": "00:29:45",
       "breakTime": "00:00:00",
       "other": "00:07:28",
       "startDate": "8/25/2026 11:37:18",
       "leadCount": 12,
-      "lastUpdated": "2026-08-25T22:24:44.198Z"
+      "lastUpdated": "2026-08-25T22:29:54.239Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -224,7 +224,7 @@
   ],
   "teamTotals": {
     "totalLeads": 60,
-    "totalOutCalls": 1033,
+    "totalOutCalls": 1034,
     "totalQuotes": 474
   },
   "speedToLead": {
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-25",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "20",
+    "outboundCstCount": "21",
     "outboundPstCount": "11",
-    "capturedAt": "2026-08-25T22:17:18.211Z"
+    "capturedAt": "2026-08-25T22:27:18.302Z"
   },
-  "generatedAt": "2026-08-25T22:25:21.243Z"
+  "generatedAt": "2026-08-25T22:30:16.336Z"
 }
