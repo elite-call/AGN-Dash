@@ -72,12 +72,12 @@
       "team": "Elite Agents",
       "phone": "+12242972619",
       "status": "Accept Internal Calls",
-      "duration": "00:00:03",
+      "duration": "00:05:13",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
       "outCalls": "96",
-      "logOn": "06:34:18",
+      "logOn": "06:39:28",
       "notReady": "00:08:21",
       "avail": "04:11:44",
       "onIncCalls": "00:00:00",
@@ -87,7 +87,7 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-25T23:20:02.515Z"
+      "lastUpdated": "2026-08-25T23:25:11.533Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -182,12 +182,12 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Accept Internal Calls",
-      "duration": "00:00:34",
+      "duration": "00:05:43",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
       "outCalls": "93",
-      "logOn": "05:25:45",
+      "logOn": "05:30:55",
       "notReady": "00:03:23",
       "avail": "01:33:38",
       "onIncCalls": "00:00:00",
@@ -197,7 +197,7 @@
       "other": "00:11:13",
       "startDate": "8/25/2026 11:37:18",
       "leadCount": 13,
-      "lastUpdated": "2026-08-25T23:20:02.515Z"
+      "lastUpdated": "2026-08-25T23:25:11.533Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -225,7 +225,7 @@
   "teamTotals": {
     "totalLeads": 61,
     "totalOutCalls": 1063,
-    "totalQuotes": 496
+    "totalQuotes": 497
   },
   "speedToLead": {
     "reportDate": "2026-08-24",
@@ -251,5 +251,5 @@
     "outboundPstCount": "20",
     "capturedAt": "2026-08-25T23:17:18.571Z"
   },
-  "generatedAt": "2026-08-25T23:20:17.037Z"
+  "generatedAt": "2026-08-25T23:25:16.186Z"
 }
