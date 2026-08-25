@@ -71,15 +71,15 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Accept Internal Calls",
-      "duration": "00:08:45",
+      "status": "Available - Ringing",
+      "duration": "00:00:05",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
       "outCalls": "73",
-      "logOn": "05:44:11",
+      "logOn": "05:49:21",
       "notReady": "00:06:29",
-      "avail": "03:31:30",
+      "avail": "03:45:20",
       "onIncCalls": "00:00:00",
       "onOutCalls": "01:19:25",
       "wrapUp": "00:26:54",
@@ -87,7 +87,7 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-25T22:29:54.239Z"
+      "lastUpdated": "2026-08-25T22:35:04.284Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -181,23 +181,23 @@
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "+12242972656",
-      "status": "Accept Internal Calls",
-      "duration": "00:02:06",
+      "status": "Busy On Call - Dialout (scheduled)",
+      "duration": "00:00:34",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "87",
-      "logOn": "04:35:38",
-      "notReady": "00:02:18",
-      "avail": "01:11:57",
+      "outCalls": "89",
+      "logOn": "04:40:48",
+      "notReady": "00:02:22",
+      "avail": "01:17:21",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:29:54",
-      "wrapUp": "00:29:45",
+      "onOutCalls": "02:30:36",
+      "wrapUp": "00:30:17",
       "breakTime": "00:00:00",
       "other": "00:07:28",
       "startDate": "8/25/2026 11:37:18",
-      "leadCount": 12,
-      "lastUpdated": "2026-08-25T22:29:54.239Z"
+      "leadCount": 13,
+      "lastUpdated": "2026-08-25T22:35:04.284Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -223,9 +223,9 @@
     }
   ],
   "teamTotals": {
-    "totalLeads": 60,
-    "totalOutCalls": 1034,
-    "totalQuotes": 474
+    "totalLeads": 61,
+    "totalOutCalls": 1036,
+    "totalQuotes": 475
   },
   "speedToLead": {
     "reportDate": "2026-08-24",
@@ -251,5 +251,5 @@
     "outboundPstCount": "11",
     "capturedAt": "2026-08-25T22:27:18.302Z"
   },
-  "generatedAt": "2026-08-25T22:30:16.336Z"
+  "generatedAt": "2026-08-25T22:35:20.022Z"
 }
