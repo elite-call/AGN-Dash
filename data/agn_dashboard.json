@@ -71,23 +71,23 @@
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "+12242972619",
-      "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:00:04",
+      "status": "Accept Internal Calls",
+      "duration": "00:00:55",
       "answered": "0",
       "missed": "0",
       "transferred": "4",
-      "outCalls": "64",
-      "logOn": "05:19:23",
+      "outCalls": "66",
+      "logOn": "05:24:02",
       "notReady": "00:06:29",
-      "avail": "03:26:09",
+      "avail": "03:26:12",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "01:10:49",
-      "wrapUp": "00:24:43",
+      "onOutCalls": "01:14:14",
+      "wrapUp": "00:25:03",
       "breakTime": "00:00:00",
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 4,
-      "lastUpdated": "2026-08-25T22:05:05.972Z"
+      "lastUpdated": "2026-08-25T22:09:45.032Z"
     },
     {
       "agent": "Gina Hamilton",
@@ -182,22 +182,22 @@
       "team": "Elite Agents",
       "phone": "+12242972656",
       "status": "Busy On Call - Dialout (scheduled)",
-      "duration": "00:01:11",
+      "duration": "00:00:22",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
-      "outCalls": "82",
-      "logOn": "04:10:50",
+      "outCalls": "84",
+      "logOn": "04:15:29",
       "notReady": "00:02:18",
-      "avail": "01:04:19",
+      "avail": "01:04:38",
       "onIncCalls": "00:00:00",
-      "onOutCalls": "02:15:27",
-      "wrapUp": "00:27:58",
+      "onOutCalls": "02:19:33",
+      "wrapUp": "00:29:00",
       "breakTime": "00:00:00",
       "other": "00:07:28",
       "startDate": "8/25/2026 11:37:18",
       "leadCount": 12,
-      "lastUpdated": "2026-08-25T22:05:05.972Z"
+      "lastUpdated": "2026-08-25T22:09:45.032Z"
     },
     {
       "agent": "Tony DeLuca",
@@ -224,8 +224,8 @@
   ],
   "teamTotals": {
     "totalLeads": 59,
-    "totalOutCalls": 1020,
-    "totalQuotes": 461
+    "totalOutCalls": 1024,
+    "totalQuotes": 464
   },
   "speedToLead": {
     "reportDate": "2026-08-24",
@@ -247,9 +247,9 @@
     "reportDate": "2026-08-25",
     "backlogCstCount": "0",
     "backlogPstCount": "0",
-    "outboundCstCount": "17",
+    "outboundCstCount": "16",
     "outboundPstCount": "7",
-    "capturedAt": "2026-08-25T21:57:18.371Z"
+    "capturedAt": "2026-08-25T22:07:18.050Z"
   },
-  "generatedAt": "2026-08-25T22:05:15.865Z"
+  "generatedAt": "2026-08-25T22:10:18.494Z"
 }
