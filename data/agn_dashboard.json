@@ -6,7 +6,7 @@
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "03:36:07",
+      "duration": "03:40:46",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
@@ -21,7 +21,7 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 08:15:30",
       "leadCount": 7,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Billy Kerth",
@@ -50,7 +50,7 @@
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "03:06:49",
+      "duration": "03:11:28",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
@@ -65,14 +65,14 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 09:00:27",
       "leadCount": 0,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Erika Carranza",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "00:04:42",
+      "duration": "00:09:21",
       "answered": "0",
       "missed": "0",
       "transferred": "5",
@@ -87,14 +87,14 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 11:32:08",
       "leadCount": 5,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Gina Hamilton",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "10:20:51",
+      "duration": "10:25:30",
       "answered": "0",
       "missed": "0",
       "transferred": "1",
@@ -109,14 +109,14 @@
       "other": "00:21:48",
       "startDate": "8/25/2026 08:00:02",
       "leadCount": 2,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Helen Flaherty",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "02:49:39",
+      "duration": "02:54:18",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
@@ -131,14 +131,14 @@
       "other": "00:23:02",
       "startDate": "8/25/2026 08:15:31",
       "leadCount": 10,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Hunter Polland",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "08:10:33",
+      "duration": "08:15:12",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
@@ -153,14 +153,14 @@
       "other": "00:04:02",
       "startDate": "8/25/2026 08:04:47",
       "leadCount": 2,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Mackenzie Olson",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "03:34:08",
+      "duration": "03:38:47",
       "answered": "0",
       "missed": "0",
       "transferred": "2",
@@ -175,14 +175,14 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 08:15:22",
       "leadCount": 7,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Shiza Zehra",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "00:03:55",
+      "duration": "00:08:34",
       "answered": "0",
       "missed": "0",
       "transferred": "0",
@@ -197,14 +197,14 @@
       "other": "00:11:15",
       "startDate": "8/25/2026 11:37:18",
       "leadCount": 15,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     },
     {
       "agent": "Tony DeLuca",
       "team": "Elite Agents",
       "phone": "",
       "status": "Signed Out",
-      "duration": "03:29:55",
+      "duration": "03:34:34",
       "answered": "0",
       "missed": "0",
       "transferred": "3",
@@ -219,7 +219,7 @@
       "other": "00:00:00",
       "startDate": "8/25/2026 08:15:36",
       "leadCount": 5,
-      "lastUpdated": "2026-08-26T00:35:01.643Z"
+      "lastUpdated": "2026-08-26T00:39:40.646Z"
     }
   ],
   "teamTotals": {
@@ -245,11 +245,11 @@
   },
   "queueDepth": {
     "reportDate": "2026-08-25",
-    "backlogCstCount": "34",
+    "backlogCstCount": "38",
     "backlogPstCount": "0",
     "outboundCstCount": "43",
-    "outboundPstCount": "1",
-    "capturedAt": "2026-08-26T00:27:18.714Z"
+    "outboundPstCount": "3",
+    "capturedAt": "2026-08-26T00:37:18.918Z"
   },
-  "generatedAt": "2026-08-26T00:35:17.030Z"
+  "generatedAt": "2026-08-26T00:40:16.802Z"
 }
