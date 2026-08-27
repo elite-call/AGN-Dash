@@ -2,7 +2,7 @@
   "ok": true,
   "agents": [],
   "teamTotals": {
-    "totalLeads": 38,
+    "totalLeads": 39,
     "totalOutCalls": 0,
     "totalQuotes": 173
   },
@@ -30,5 +30,5 @@
     "outboundPstCount": "2",
     "capturedAt": "2026-08-26T02:37:18.745Z"
   },
-  "generatedAt": "2026-08-27T19:45:15.993Z"
+  "generatedAt": "2026-08-27T19:50:16.934Z"
 }
